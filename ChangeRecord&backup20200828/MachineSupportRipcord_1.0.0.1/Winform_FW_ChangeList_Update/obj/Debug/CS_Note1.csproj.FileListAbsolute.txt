@@ -1,0 +1,111 @@
+C:\Users\cls\Desktop\ddvip_com_073030554fa67c-5358\CS_Note1\obj\Debug\JNote.exe
+C:\Users\cls\Desktop\ddvip_com_073030554fa67c-5358\CS_Note1\obj\Debug\JNote.pdb
+C:\Users\cls\Desktop\ddvip_com_073030554fa67c-5358\CS_Note1\bin\Debug\JNote.exe
+C:\Users\cls\Desktop\ddvip_com_073030554fa67c-5358\CS_Note1\bin\Debug\JNote.pdb
+C:\Users\cls\Desktop\ddvip_com_073030554fa67c-5358\CS_Note1\obj\Debug\CS_Note1.csprojResolveAssemblyReference.cache
+C:\Users\cls\Desktop\ddvip_com_073030554fa67c-5358\CS_Note1\obj\Debug\CS_Note1.FormAbout.resources
+C:\Users\cls\Desktop\ddvip_com_073030554fa67c-5358\CS_Note1\obj\Debug\CS_Note1.FormJ.resources
+C:\Users\cls\Desktop\ddvip_com_073030554fa67c-5358\CS_Note1\obj\Debug\CS_Note1.FormSave.resources
+C:\Users\cls\Desktop\ddvip_com_073030554fa67c-5358\CS_Note1\obj\Debug\CS_Note1.csproj.GenerateResource.Cache
+G:\Easy-To-Use\C#_winfrom 做的日记本,使用非常方便，代码简洁\bin\Debug\JNote.exe.config
+G:\Easy-To-Use\C#_winfrom 做的日记本,使用非常方便，代码简洁\bin\Debug\JNote.exe
+G:\Easy-To-Use\C#_winfrom 做的日记本,使用非常方便，代码简洁\bin\Debug\JNote.pdb
+G:\Easy-To-Use\C#_winfrom 做的日记本,使用非常方便，代码简洁\obj\Debug\CS_Note1.FormAbout.resources
+G:\Easy-To-Use\C#_winfrom 做的日记本,使用非常方便，代码简洁\obj\Debug\CS_Note1.FormJ.resources
+G:\Easy-To-Use\C#_winfrom 做的日记本,使用非常方便，代码简洁\obj\Debug\CS_Note1.FormSave.resources
+G:\Easy-To-Use\C#_winfrom 做的日记本,使用非常方便，代码简洁\obj\Debug\CS_Note1.csproj.GenerateResource.Cache
+G:\Easy-To-Use\C#_winfrom 做的日记本,使用非常方便，代码简洁\obj\Debug\JNote.exe
+G:\Easy-To-Use\C#_winfrom 做的日记本,使用非常方便，代码简洁\obj\Debug\JNote.pdb
+G:\Easy-To-Use\Winform_FW_ChangeList_Update\bin\Debug\JNote.exe.config
+G:\Easy-To-Use\Winform_FW_ChangeList_Update\obj\Debug\JNote.exe
+G:\Easy-To-Use\Winform_FW_ChangeList_Update\obj\Debug\JNote.pdb
+G:\Easy-To-Use\Winform_FW_ChangeList_Update\bin\Debug\JNote.exe
+G:\Easy-To-Use\Winform_FW_ChangeList_Update\bin\Debug\JNote.pdb
+G:\Easy-To-Use\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.FormAbout.resources
+G:\Easy-To-Use\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.FormJ.resources
+G:\Easy-To-Use\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.FormSave.resources
+G:\Easy-To-Use\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.csproj.GenerateResource.Cache
+G:\Easy-To-Use\Winform_FW_ChangeList_Update\bin\Debug\WinHtmlEditor.dll
+G:\Easy-To-Use\Winform_FW_ChangeList_Update\bin\Debug\NetSpell.SpellChecker.dll
+G:\Easy-To-Use\Winform_FW_ChangeList_Update\bin\Debug\WinHtmlEditor.pdb
+G:\Easy-To-Use\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.HTML.resources
+G:\Easy-To-Use\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.csprojResolveAssemblyReference.cache
+G:\Easy-To-Use\Test_ChangeList - 20200806\Winform_FW_ChangeList_Update\bin\Debug\JNote.exe.config
+G:\Easy-To-Use\Test_ChangeList - 20200806\Winform_FW_ChangeList_Update\obj\Debug\JNote.exe
+G:\Easy-To-Use\Test_ChangeList - 20200806\Winform_FW_ChangeList_Update\obj\Debug\JNote.pdb
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\bin\Debug\JNote.exe.config
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\bin\Debug\JNote.exe
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\bin\Debug\JNote.pdb
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.EditVersion.resources
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.CreateVersion.resources
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.FormAbout.resources
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.FormJ.resources
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.FormSave.resources
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.NewBranch.resources
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.Properties.Resources.resources
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.csproj.GenerateResource.Cache
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Debug\JNote.exe
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Debug\JNote.pdb
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\JNote.dll.config
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\JNote.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\JNote.pdb
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VS.MachineSupport.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VS.Utility.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.Core.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VS.Core.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.AlignPlusCalibration.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.Comm.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\stdole.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.CalibFix.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.Caliper.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro3D.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VS.Interop.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VS.MachineSupport.pdb
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VS.Utility.xml
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.Core.xml
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.xml
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.Comm.xml
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.CalibFix.xml
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.Caliper.xml
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro3D.xml
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\COGNEX\ChangeRecord&backup20200821\Cognex\JNote.dll.config
+D:\COGNEX\ChangeRecord&backup20200821\Cognex\JNote.dll
+D:\COGNEX\ChangeRecord&backup20200821\Cognex\JNote.pdb
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.EditVersion.resources
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.CreateVersion.resources
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.FormAbout.resources
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.FormJ.resources
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.FormSave.resources
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.NewBranch.resources
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.Properties.Resources.resources
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.csproj.GenerateResource.Cache
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\JNote.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\JNote.pdb
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.csprojResolveAssemblyReference.cache
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\JNote.dll.config
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\JNote.dll
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\JNote.pdb
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.EditVersion.resources
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.CreateVersion.resources
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.FormAbout.resources
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.FormJ.resources
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.FormSave.resources
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.NewBranch.resources
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.Properties.Resources.resources
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.csproj.GenerateResource.Cache
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\JNote.dll
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\JNote.pdb
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\MachineSupportRipcord_1.0.0.1\Winform_FW_ChangeList_Update\obj\Debug\CS_Note1.csprojResolveAssemblyReference.cache

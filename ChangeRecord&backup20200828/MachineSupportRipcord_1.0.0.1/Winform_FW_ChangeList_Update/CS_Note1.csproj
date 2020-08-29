@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>7.10.3077</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{695A6312-2340-4A6F-B8E1-70090A177F3C}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>App.ico</ApplicationIcon>
+    <AssemblyKeyContainerName />
+    <AssemblyName>JNote</AssemblyName>
+    <AssemblyOriginatorKeyFile />
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>CS_Note1</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>..\..\Cognex\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile />
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile />
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn />
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile />
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile />
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn />
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Cognex.VS.MachineSupport">
+      <HintPath>..\..\Cognex\Cognex.VS.MachineSupport.dll</HintPath>
+    </Reference>
+    <Reference Include="Cognex.VS.Utility, Version=3.3.0.9, Culture=neutral, PublicKeyToken=e313ed72c2e670ed, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Cognex\Cognex.VS.Utility.dll</HintPath>
+    </Reference>
+    <Reference Include="IP-Format, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\IP-Format.dll</HintPath>
+    </Reference>
+    <Reference Include="RTFEditorUI, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\RTFEditorUI.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Configuration.Install">
+      <Name>System.Configuration.Install</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Management">
+      <Name>System.Management</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="clsDragHelper.cs" />
+    <Compile Include="EditVersion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditVersion.Designer.cs">
+      <DependentUpon>EditVersion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\CreateVersion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\CreateVersion.Designer.cs">
+      <DependentUpon>CreateVersion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FileTreeNode.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Form\FormAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormJ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\FormSave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INIOperationClass.cs" />
+    <Compile Include="MdiTextInBox.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MyEnum.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Form\NewBranch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\NewBranch.Designer.cs">
+      <DependentUpon>NewBranch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OpXMLFile.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RollBackProcess.cs" />
+    <Compile Include="TextInBox.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TextInFile.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="XMLopt.cs" />
+    <Content Include="App.ico" />
+    <EmbeddedResource Include="EditVersion.resx">
+      <DependentUpon>EditVersion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\CreateVersion.resx">
+      <DependentUpon>CreateVersion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormAbout.resx">
+      <DependentUpon>FormAbout.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormJ.resx">
+      <DependentUpon>FormJ.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\FormSave.resx">
+      <DependentUpon>FormSave.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\NewBranch.resx">
+      <DependentUpon>NewBranch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="JNote.exe.manifest">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent />
+    <PostBuildEvent />
+  </PropertyGroup>
+</Project>

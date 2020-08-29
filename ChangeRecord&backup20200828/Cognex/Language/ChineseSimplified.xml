@@ -1,0 +1,1974 @@
+<?xml version="1.0"?>
+<WritableStringDictionary>
+  <TranslationStrings>
+    <Key>Display {0}     </Key>
+    <String>屏幕 {0}     </String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Status</Key>
+    <String>状态</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Select Product</Key>
+    <String>选择产品</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Save Image Options...</Key>
+    <String>保存图像选项...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Send Info</Key>
+    <String>发送信息</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>S2-Send:</Key>
+    <String>S2-发送：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>S1-Send:</Key>
+    <String>S1-发送：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>System Status</Key>
+    <String>系统状态</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Tool Status:</Key>
+    <String>工具状态：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Product ID:</Key>
+    <String>产品编号：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>S2 Status:</Key>
+    <String>S2状态：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>S1 Status:</Key>
+    <String>S1状态：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Run Status:</Key>
+    <String>运行状态：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Simulator</Key>
+    <String>模拟器</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera</Key>
+    <String>像机</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>File</Key>
+    <String>文件</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Folder</Key>
+    <String>文件夹</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Live Camera</Key>
+    <String>实时像机</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Issue Commands:</Key>
+    <String>发出指令:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Next Image:</Key>
+    <String>下一图像:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Next Cmd:</Key>
+    <String>下一指令</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Auto</Key>
+    <String>自动</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Automatic</Key>
+    <String>自动的</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Manual</Key>
+    <String>手动的</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Choose Folder:</Key>
+    <String>选择文件夹:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Browse...</Key>
+    <String>浏览…</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Preset</Key>
+    <String>预设</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Autocal</Key>
+    <String>自动标定</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Custom</Key>
+    <String>客置</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Batch</Key>
+    <String>批处理</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Measurement File:</Key>
+    <String>测量文件</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Flush And Close Measurement File</Key>
+    <String>完成并关闭测量文件</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Log</Key>
+    <String>日志</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Clear Log</Key>
+    <String>清除日志</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Cognex Vision System</Key>
+    <String>康耐视视觉系统</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Online</Key>
+    <String>在线</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Offline</Key>
+    <String>离线</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>System is offline.</Key>
+    <String>系统当前离线</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Inspection</Key>
+    <String>检查</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Sample Insp 1</Key>
+    <String>采样检查 1</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Acquisition</Key>
+    <String>拍照</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration</Key>
+    <String>标定</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Sample Insp 2</Key>
+    <String>采样检查 2</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Sample Insp 3</Key>
+    <String>采样检查 3</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Sample Insp 4</Key>
+    <String>采样检查 4</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Sample Insp 5</Key>
+    <String>采样检查 5</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Sample Insp 6</Key>
+    <String>采样检查 6</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Communication</Key>
+    <String>通讯</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>TCP/IP</Key>
+    <String>TCP/IP</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Serial Port</Key>
+    <String>串行端口</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Startup</Key>
+    <String>开始</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Light Control</Key>
+    <String>光源控制</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Tools</Key>
+    <String>工具</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera Test Setup...</Key>
+    <String>像机测试设定…</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Change Calibration Tools...</Key>
+    <String>另选标定工具…</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration Info...</Key>
+    <String>标定信息</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Generate Cycle Time Report...</Key>
+    <String>生成循环时间报告</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Regenerate Autocalibration Tools</Key>
+    <String>重新生成自动标定工具</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Version Information...</Key>
+    <String>版本信息</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>White</Key>
+    <String>白色</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Black</Key>
+    <String>黑色</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Administrator</Key>
+    <String>管理员</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>System is online!</Key>
+    <String>系统当前在线</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Warning! Light controller {0} channel {1} failed to turn off. Details: {2}</Key>
+    <String>警告！光控制器{0}道{1}失败关闭。详细信息：{2}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Close the application?</Key>
+    <String>关闭当前应用?</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Close Application</Key>
+    <String>关闭应用</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>TCP/IP Setting</Key>
+    <String>TCP/IP设定</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Port：</Key>
+    <String>端口:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>IP：</Key>
+    <String>IP地址:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Cancel</Key>
+    <String>取消</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Save</Key>
+    <String>保存</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Light Controller 1</Key>
+    <String>光源控制器1</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Light Controller 2</Key>
+    <String>光源控制器2</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>COM:</Key>
+    <String>COM端口:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>BaudRate:</Key>
+    <String>波特率:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>StopBit:</Key>
+    <String>结束字节:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>DataBit:</Key>
+    <String>数据字节:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Parity：</Key>
+    <String>奇偶校验码:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Select Product:</Key>
+    <String>选择产品:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Product:</Key>
+    <String>产品:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Inspection:</Key>
+    <String>检查:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Live Preview</Key>
+    <String>实时预览</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>On</Key>
+    <String>开</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Controller</Key>
+    <String>控制器</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Channel</Key>
+    <String>通道</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Intensity</Key>
+    <String>强度</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Select a new calibration folder...</Key>
+    <String>选择新的标定文件夹</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Master Configuration Checksum</Key>
+    <String>主要配置校验</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Version Info</Key>
+    <String>版本信息</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>File Checksums</Key>
+    <String>文件校验</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>No cycle time data has been recorded yet. Cycle time statistics are reset at application launch.</Key>
+    <String>无循环时间数据被记录。 循环时间统计将在应用启动时被重置。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Unknown</Key>
+    <String>未知</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Ran but provides no output image</Key>
+    <String>运行但无图像输出</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>CalibrationTool is null</Key>
+    <String>标定工具为空</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>None</Key>
+    <String>无循环时间数据被记录。 循环时间统计将在应用启动时被重置。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>One or more calibration toolblocks have errors! Please review the calibration toolblocks listed in red.</Key>
+    <String>一个或多个标定工具块有错误！请查看显示红色的标定工具块。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration Info</Key>
+    <String>标定信息</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration Tool Info</Key>
+    <String>标定工具信息</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>View Images:</Key>
+    <String>查看图像：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Loaded:</Key>
+    <String>已加载：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration Type:</Key>
+    <String>标定类别：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Coordinate Space Name:</Key>
+    <String>坐标空间名：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Shares Calibration With:</Key>
+    <String>标定信息分享给：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration Valid:</Key>
+    <String>标定有效：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration Can Run:</Key>
+    <String>标定能够运行：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Property</Key>
+    <String>属性</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Minimum</Key>
+    <String>最小值</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Value</Key>
+    <String>数值</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Maximum</Key>
+    <String>最大值</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Yes</Key>
+    <String>是的</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>No. Reason: {0}</Key>
+    <String>原因 代号: {0}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera Test Setup Error</Key>
+    <String>像机测试设定错误</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Operator</Key>
+    <String>操作员</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Connected</Key>
+    <String>已连接</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Engineer</Key>
+    <String>工程师</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Application starting, please wait...</Key>
+    <String>应用启动中，请等候…</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration in progress, please wait...</Key>
+    <String>标定中，请等候…</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Reloading inspection tools, please wait...</Key>
+    <String>重新加载检查工具，请等候</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Loading new calibration tools...</Key>
+    <String>加载新标定工具中…</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Display {0}</Key>
+    <String>屏幕 {0}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Change Access Level</Key>
+    <String>改变准入权限</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Password:</Key>
+    <String>密码：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Change</Key>
+    <String>改变</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>New Password:</Key>
+    <String>新密码：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Change Password...</Key>
+    <String>改换密码…</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>OK</Key>
+    <String>好的</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>IP Address:</Key>
+    <String>IP地址:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Live Video</Key>
+    <String>实时视频</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Reference Image</Key>
+    <String>参考图像</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Acquisition Settings</Key>
+    <String>拍照设定</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Lighting...</Key>
+    <String>光源…</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration-Time</Key>
+    <String>标定时间</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Exposure:</Key>
+    <String>曝光时间:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>ms</Key>
+    <String>毫秒</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Inspection-Time</Key>
+    <String>检查时间</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Save Settings</Key>
+    <String>保存设置</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>No framegrabber connected. Using default DeviceVendorName. Please manually edit the recipe.</Key>
+    <String>无图像采集卡连接。使用缺省设备供应商名称。请手动修改设定文档。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Warning, could not load a camera recipe for all inspections. These new recipes will be marked with an asterisk (*). Please verify, then save these recipes.</Key>
+    <String>警告，对所有检查任务无法加载像机设定文档。这些新的设定将被标记上星号（*）。请确定后再保存像机设定文档。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Step 4: Confirm Settings</Key>
+    <String>步骤4：确认设置</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Step 3: Exposure, Focus, and FOV</Key>
+    <String>步骤3：曝光率，聚焦度， 和视野</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Step 2: Confirm Lens and Hardware</Key>
+    <String>步骤2：确认镜头和硬件</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Step 1: Select a Camera to Setup</Key>
+    <String>步骤1：选择像机进行设置</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Auto Adjust</Key>
+    <String>自动调整</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Update Settings Recipe...</Key>
+    <String>更新设定文档…</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>GigE Parameters</Key>
+    <String>GigE参数</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Confirm Settings</Key>
+    <String>确认设定</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Edit Camera Setup Tool...</Key>
+    <String>编辑像机设定工具…</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Found GigE Framegrabber</Key>
+    <String>找到GigE图像采集卡</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Warning! Light controller {0} channel {1} failed to set a light intensity! Details: {2}</Key>
+    <String>警告！光源控制器{0}通道{1}无法设置光的强度！详细信息：{2}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Warning! Light controller {0} channel {1} failed to turn on! Details: {2}</Key>
+    <String>警告！光源控制器{0}通道{1}无法打开！详细信息：{2}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Would you like to pull the ToolBlock input values into your camera setup recipe?</Key>
+    <String>想要把工具块的输入值存到像机设定文档吗？</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Confirm Action</Key>
+    <String>确认执行</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Invalid recipe!</Key>
+    <String>错误设定文档</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Would you like to create this recipe using the current values? Click "Yes" to use the current values on the Camera Setup ToolBlock outputs, press "No" to use the target values stored in the Camera Setup ToolBlock inputs, or press "Cancel" to cancel saving the recipe.</Key>
+    <String>想要用当前值创建设定文档？点击“是“ 使用像机设置工具块输出的当前值， 点击”否“使用存储在像机设置工具块输入处的目标值， 或点击”取消“来取消保存设定文档。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Recipe saved successfully!</Key>
+    <String>文档保存成功！</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>You must confirm the camera and lens setup by checking the box in step 2!</Key>
+    <String>必须在步骤2中选中复选框来确认像机和镜头设置。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Confirm that the current image matches the reference image.</Key>
+    <String>确认当前图像和参考图像匹配。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Final Check</Key>
+    <String>最终确认</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Current Image</Key>
+    <String>当前图像</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Not all cameras are OK. Are you sure you want to close Camera Setup Test?</Key>
+    <String>不是所有像机都运行良好。确定要关闭像机设定测试吗？</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Not all cameras are setup. Are you sure you want to close Camera Setup Test?</Key>
+    <String>不是所有像机都设置完成。确定要关闭像机设定测试吗？</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Gold</Key>
+    <String>金色</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>The password entered is not correct.</Key>
+    <String>输入的密码不正确。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Cancel Change</Key>
+    <String>取消改动</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>The old password entered is not correct.</Key>
+    <String>旧密码输入不正确。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>*Calibration</Key>
+    <String>*标定</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Serial port setting save finished!</Key>
+    <String>串口设定保存完成！</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Warning! Light controller {0} channel {1} failed to turn off! Details: {2}</Key>
+    <String>警告！光源控制器{0}通道{1}无法关闭！详细信息:{2)</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Run</Key>
+    <String>运行</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Save and Close</Key>
+    <String>保存并关闭</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Saved inspection tool:</Key>
+    <String>已保存检查工具：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>View Images...</Key>
+    <String>查看图像…</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Image Saving</Key>
+    <String>保存图像</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Options</Key>
+    <String>选项</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Save Only NG or Error</Key>
+    <String>仅保存NG或错误</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>With Graphics</Key>
+    <String>附图</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Path:</Key>
+    <String>路径：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Save Images Automatically</Key>
+    <String>自动保存图像</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Stable</Key>
+    <String>稳定</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Experimental</Key>
+    <String>测试</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Light Controller COM Port Setup</Key>
+    <String>光源控制器COM口设置</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Image Source:</Key>
+    <String>图像源</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Robot X:</Key>
+    <String>Robot X:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Robot Y:</Key>
+    <String>Robot Y:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Robot T:</Key>
+    <String>Robot T:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>mm</Key>
+    <String>毫米</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>deg</Key>
+    <String>度</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>S2 Send</Key>
+    <String>S2 发送</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>S1 Send</Key>
+    <String>S1 发送</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Run Simulation File...</Key>
+    <String>运行模拟文件…</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Simulation File Format:</Key>
+    <String>模拟文件格式:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Force Write Every</Key>
+    <String>强制写入所有</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Line(s)</Key>
+    <String>行</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Insp 1</Key>
+    <String>检查1</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Insp 2</Key>
+    <String>检查2</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Insp 3</Key>
+    <String>检查3</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Insp 4</Key>
+    <String>检查4</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Insp 5</Key>
+    <String>检查5</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Insp 6</Key>
+    <String>检查6</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Target Found: N/A</Key>
+    <String>搜索目标: 未找到</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Coarse Focus: N/A</Key>
+    <String>粗焦点: 未找到</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Fine Focus: N/A</Key>
+    <String>细焦点: 未找到</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Field of View X: N/A</Key>
+    <String>视野X: 未找到</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Target Position: N/A</Key>
+    <String>目标位置: 未找到</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Brightness: N/A</Key>
+    <String>亮度: 未找到</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Setup OK: False</Key>
+    <String>设定状态: 错误</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Target Found: {0}</Key>
+    <String>搜索目标: {0}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Fine Focus: {0:0.00} (Min: {1:0.00}, Max: {2:0.00}, Maximize)</Key>
+    <String>细焦点: {0:0.00} (最小: {1:0.00}, 最大: {2:0.00}, 最大化)</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Field of View X: {0:0.00} mm (Target: {1:0.00} ± {2:0.00})</Key>
+    <String>视野X: {0:0.00} 毫米 (目标: {1:0.00} ± {2:0.00})</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Target Position: {0:0.00} mm , {1:0.00} mm</Key>
+    <String>目标位置: {0:0.00} 毫米 , {1:0.00} 毫米</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Brightness: {0:0.00} (Target: {1:0.00} ± {2:0.00})</Key>
+    <String>亮度: {0:0.00} (目标: {1:0.00} ± {2:0.00})</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Image too dark, increase exposure time.</Key>
+    <String>图像太暗,需增加曝光时间</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera Setup: NG</Key>
+    <String>像机设置: NG</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera Setup: OK!</Key>
+    <String>像机设置: OK</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Image too bright, reduce exposure time.</Key>
+    <String>图像太亮, 需减少曝光时间</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Place target in field of view. Ensure 2D code is readable.</Key>
+    <String>将目标放在视野中. 确保2D代码可读.</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Image too blurry. Adjust camera focus.</Key>
+    <String>图像太模糊. 调整镜头焦点</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Working distance is too long. Move camera closer to part.</Key>
+    <String>工作距离过长. 将像机移近。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Fine Focus: {0:0.00} (Min: {1:0.00}, Max: N/A, Maximize)</Key>
+    <String>细焦点: {0:0.00} (最小: {1:0.00}, 最大: 未找到, 最大化)</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Target is not positioned correctly. Check target fixture or adjust camera.</Key>
+    <String>目标未正确放置。检查目标机器或者调整像机。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Cannot determine max focus. Adjust camera focus.</Key>
+    <String>无法确定最大焦点。调整像机焦点。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Working distance is too short. Move camera away from part.</Key>
+    <String>工作距离太短。将像机移远。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Toolblock Edit Control</Key>
+    <String>工具块编辑控件</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Lines(s)</Key>
+    <String>行</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration tool failed, no output image provided. Check calibration tool.</Key>
+    <String>标定工具失败，无输出图像。 检查标定工具。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Image save failure. Queue full.</Key>
+    <String>图像保存失败。存储队列已满。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>{0} ms</Key>
+    <String>{0} 毫秒</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Acquisition tool failed, no input image provided. Check acquisition tool.</Key>
+    <String>拍照工具失败， 无输入图像。检查标定工具。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Locate Housing</Key>
+    <String>定位HSG</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Locate PB</Key>
+    <String>定位PB</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Locate VB+, VB-</Key>
+    <String>定位VB+，VB-</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Check PB</Key>
+    <String>确定PB</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Check VB+, VB-</Key>
+    <String>确定VB+，VB-</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Locate Shim</Key>
+    <String>定位Shim</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Vol+ Pre-Insert</Key>
+    <String>Vol+ 预插入</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Vol+ Post-Insert</Key>
+    <String>Vol+ 预插入</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Vol- Pre-Insert</Key>
+    <String>Vol- 预插入</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Vol- Post-Insert</Key>
+    <String>Vol- 后插入</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>P Pre-Insert</Key>
+    <String>P 预插入</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>P Post-Insert</Key>
+    <String>P 后插入</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Vol+ Final Inspect</Key>
+    <String>Vol+ 最终检查</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Vol- Final Inspect</Key>
+    <String>Vol- 最终检查</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>P Final Inspect</Key>
+    <String>P 最终检查</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>BatteryInTray</Key>
+    <String>电池入槽</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>VHB</Key>
+    <String>VHB</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>BatteryWithoutVHB</Key>
+    <String>电池未带VHB</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>BatteryWithVHB</Key>
+    <String>电池及其VHB</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Housing</Key>
+    <String>HSG</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>HousingWithBattery</Key>
+    <String>HSG及其电池</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Find Button Cavities</Key>
+    <String>搜索按钮槽</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Find Buttons PB and VB+</Key>
+    <String>搜索按钮PB和VB+</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Find Button VB-</Key>
+    <String>搜索按钮 VB-</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Language （语言）</Key>
+    <String>语言 （Language）</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>System Message Log</Key>
+    <String>系统讯息日志</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Message</Key>
+    <String>讯息</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Time</Key>
+    <String>时间</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Light controller {0} channel {1} failed to turn off.</Key>
+    <String>光源控制器{0}通道{1}无法打开。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Dismiss Alarms</Key>
+    <String>解除警报</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>ALARM: {0}</Key>
+    <String>警报: {0}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>VisionTool Configuration - Inspection {0} (Product {1})</Key>
+    <String>视觉工具设置-检查{0} (产品 {1})</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Compare With Stable</Key>
+    <String>比较已稳定的</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Expand All</Key>
+    <String>展开所有</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Close</Key>
+    <String>关闭</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>VisionTool Configuration - Calibration {0}</Key>
+    <String>视觉工具设置- 标定{0}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>An uncaught exception occurred while running a job.</Key>
+    <String>工作运行中发生未知状况</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>This label was added after RunJob was called!</Key>
+    <String>运行工作被调用后添加该标签！</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Free space on the specific disk is less then {0} MB: {1}</Key>
+    <String>硬盘上可用空间少于{0}兆字节: {1}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Error saving image, disk space low!</Key>
+    <String>无法保存图像，硬盘空间过小！</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>There was 1 change made to this toolblock. Would you like to review the changes made?</Key>
+    <String>此工具块有被改动，你想要核查所做的改动吗？</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Review Changes</Key>
+    <String>核查改动</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Before</Key>
+    <String>之前</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>After</Key>
+    <String>之后</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>ToolBlock Change Count: {0}</Key>
+    <String>改动过的工具块数目: {0}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>There were {0} changes made to this toolblock. Would you like to review the changes made?</Key>
+    <String>此工具块有 {0} 个改动，你想要核查所做的改动吗？</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>ToolBlocks are identical.</Key>
+    <String>工具块完全一致。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Current Experimental</Key>
+    <String>当前试验</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Acquisition tool {0} was not loaded！</Key>
+    <String>拍照工具{0} 无法加载！</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Cannot Check Inspection Tool Version</Key>
+    <String>无法确认检查工具的版本</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Inspection Tool Version Mismatch</Key>
+    <String>检查工具版本信息不匹配</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera {0} ({1})</Key>
+    <String>像机{0} ({1})</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera {0} is not at IP Address {1}</Key>
+    <String>像机{0}的IP地址不是{1}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Scanning for plugins...</Key>
+    <String>正在寻找插件 ...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Searching assembly {0} for plugin types...</Key>
+    <String>正在{0}程序中寻找插件类型 ...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Loaded lighting controller type {0}, v{1}.{2}.{3}.{4}</Key>
+    <String>已加载光源控制器，型号 {0}, v{1}.{2}.{3}.{4}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Plugin loading complete!</Key>
+    <String>插件加载完毕</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Light Controller Setup</Key>
+    <String>光源控制器设置</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Remove</Key>
+    <String>去除</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Add</Key>
+    <String>添加</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>System came online.</Key>
+    <String>系统上线.</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>PLC Status:</Key>
+    <String>PLC状态：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Loop Simulation File</Key>
+    <String>循环使用模拟命令文件</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera Settings...</Key>
+    <String>像机设置...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Acquisition Setup...</Key>
+    <String>取像设置...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Edit ToolBlock...</Key>
+    <String>修改工具块...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Autocalibration Settings...</Key>
+    <String>自动标定设置...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Inspection Settings...</Key>
+    <String>检测设置...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Acquisition Setup Tool...</Key>
+    <String>取像设置工具...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Reset Autocal Calibration Scripts...</Key>
+    <String>重置自动标定脚本...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Convert VPBs to Bitmaps...</Key>
+    <String>将VPB文件转换为BMP文件...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Force All Tools to Release Mode...</Key>
+    <String>将所有工具块设为发布(Release)模式...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Reduce Inspection Tool Size...</Key>
+    <String>减小检测工具块大小...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Settings</Key>
+    <String>框架程序设置</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Vision System Setup...</Key>
+    <String>视觉系统设置...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera Hardware Settings...</Key>
+    <String>像机硬件设置...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Image Save Settings...</Key>
+    <String>图像保存设置...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Light Controller Setup...</Key>
+    <String>光源控制器设置...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Light Controller Intensity...</Key>
+    <String>光源控制器亮度...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Server Communication...</Key>
+    <String>服务器通信...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Framework Settings...</Key>
+    <String>通用框架设置...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Disabled</Key>
+    <String>禁用</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Appearance</Key>
+    <String>屏幕显示控制</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Fit Displays with Graphics</Key>
+    <String>自动适配图形</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Maximize on Startup</Key>
+    <String>启动时全屏</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Show Cycle Time on Displays</Key>
+    <String>显示运行周期时间</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Result Displays:</Key>
+    <String>结果显示：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Display Layout:</Key>
+    <String>显示区域分布：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Initial Window Position:</Key>
+    <String>窗口初始位置：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Window Size:</Key>
+    <String>窗口大小：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Default Language:</Key>
+    <String>默认语言：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Behavior</Key>
+    <String>行为设置</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Startup in Online Mode</Key>
+    <String>启动时进入在线模式</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Auto-show Onscreen Keyboard</Key>
+    <String>自动显示屏幕键盘</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Use Hardware Triggers in Simulator</Key>
+    <String>模拟器使用硬件出发</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Remote Display</Key>
+    <String>远程显示</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>IP and Port:</Key>
+    <String>IP地址和端口号：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Compress Remote Display Images</Key>
+    <String>压缩远程显示图像</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Enable Remote Display</Key>
+    <String>允许远程显示</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Disable Local Display</Key>
+    <String>禁用本机显示</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Disable Ticket-based Communication</Key>
+    <String>禁用基于交易票据的通信方式</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Listen for TCP Client Heartbeat</Key>
+    <String>侦听TCP客户端心跳</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Asynchronous Communication Mode</Key>
+    <String>非同步通信方式</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Enable Autocal Commands</Key>
+    <String>标准方式处理自动标定命令</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Autocal Dwell Time</Key>
+    <String>自动标定取像等待时间</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Advanced</Key>
+    <String>高级设置</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Print Cycletime Breakdown</Key>
+    <String>显示周期时间细节</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Annotated Image Size:</Key>
+    <String>结果图像大小：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Save Debug Images</Key>
+    <String>存储调试图像</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Image Save Queue Size:</Key>
+    <String>图像存储队列长短：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Automatic Toolblock Diff</Key>
+    <String>自动比较工具块</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Serializer Buffer Size:</Key>
+    <String>存取缓冲区大小：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Development Mode</Key>
+    <String>开发模式</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Print Hardware Trigger Debug</Key>
+    <String>显示硬件触发调试信息</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Revert</Key>
+    <String>返回先前值</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Light Controller Type:</Key>
+    <String>光源控制器类型：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Connection Type:</Key>
+    <String>连接方式：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Port:</Key>
+    <String>端口：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>IP:</Key>
+    <String>IP地址：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>COM Port:</Key>
+    <String>串口：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Baud Rate:</Key>
+    <String>波特率：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Stop Bits:</Key>
+    <String>停止位：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Parity:</Key>
+    <String>校验位：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Data Bits:</Key>
+    <String>数据位：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Server Communication Settings</Key>
+    <String>服务器通信设置</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Image Save Options</Key>
+    <String>图像存储选项</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Save Raw Images In PNG Format</Key>
+    <String>原图存为PNG格式</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Cleanup Now</Key>
+    <String>立即清理</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Annotated Image Result Filter</Key>
+    <String>截图存储控制</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Save Only:</Key>
+    <String>仅存：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Accept</Key>
+    <String>接受</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Error</Key>
+    <String>措误</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Warning</Key>
+    <String>警告</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Reject</Key>
+    <String>拒收</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Raw Image Result Filter</Key>
+    <String>原图存储控制</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Annotated Image Sources</Key>
+    <String>截图来源</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Raw Image Sources</Key>
+    <String>原图来源</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Annotated Image Save Path</Key>
+    <String>截图存储路径</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Annotated Image Cleanup</Key>
+    <String>清理截图设置</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Image is older than</Key>
+    <String>图像早于</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Directory size exceeds</Key>
+    <String>文件夹大小超过</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Days</Key>
+    <String>天</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>GB</Key>
+    <String>GB</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Delete images when</Key>
+    <String>何时删除图像</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Raw Image Cleanup</Key>
+    <String>清理原图设置</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Raw Image Save Path</Key>
+    <String>原图存储路径</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Save Raw Images</Key>
+    <String>存储原图</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Save Annotated Images</Key>
+    <String>存储截图</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Inspection {0}, Input {1} ({2})</Key>
+    <String>检查 {0}, 输入 {1} ({2})</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration {0}, Input {1}</Key>
+    <String>标定工具 {0}, 输入 {1}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera {0}</Key>
+    <String>像机 {0}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera Setup Tool...</Key>
+    <String>像机设置工具...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Cam Status</Key>
+    <String>像机状态</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Advice</Key>
+    <String>建议</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Measure</Key>
+    <String>测量</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>FOV</Key>
+    <String>视野</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Position</Key>
+    <String>位置</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Tilt</Key>
+    <String>倾斜度</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Focus</Key>
+    <String>聚焦度</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Current</Key>
+    <String>当前值</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Expected</Key>
+    <String>期望值</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Setup Camera</Key>
+    <String>设置像机</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Configuration</Key>
+    <String>设置</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Set Golden Values</Key>
+    <String>设置最佳值</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Edit CamSetup Tool</Key>
+    <String>编辑像机设置工具</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>{0:0} x {1:0} px , {2:0} deg</Key>
+    <String>{0:0} x {1:0} 像素 , {2:0} 度</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Wait for auto-exposure to settle.</Key>
+    <String>等待自动曝光完成</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Cannot read setup target. Place target in field of view and adjust focus.</Key>
+    <String>无法读取设置目标。请将目标件放在视野当中并调整使其聚焦。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>N/A</Key>
+    <String>暂无</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Cannot measure focus. Ensure target is in field of view.</Key>
+    <String>无法测量聚焦度。请确保目标件位于视野当中。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Reinitializing Framework...</Key>
+    <String>重新启动框架程序</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Image blurry, adjust focus.</Key>
+    <String>图像模糊，请调整聚焦-</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera is ok!</Key>
+    <String>像机准备就绪</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Click 'Setup Camera'</Key>
+    <String>点击 “设置像机”</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Setting Up Camera {0}...</Key>
+    <String>设置像机 {0}...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Setting Up Camera {0}, {1}...</Key>
+    <String>设置像机 {0}, {1}...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera {0} setup complete!</Key>
+    <String>像机 {0} 设置完成！</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Move target into position under the crosshairs.</Key>
+    <String>移动目标件至十字焦点处。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Align the dashed line with the edges of the field of view</Key>
+    <String>将视野边缘与虚线对齐。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera angle incorrect. Adjust yaw.</Key>
+    <String>像机角度不正确。调整像机在安装平面上的角度（yaw）。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Working distance is too short.</Key>
+    <String>工作距离太短</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Move camera away from target.</Key>
+    <String>移动像机使之远离目标件</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Working distance is too long.</Key>
+    <String>工作距离太长</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Move camera towards target.</Key>
+    <String>移动像机使之接近目标件</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera angle incorrect. Adjust pitch.</Key>
+    <String>像机角度不正确。调整像机在垂直于安装平面上的角度（pitch）。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Creating recipe for Camera {0}, {1}...</Key>
+    <String>为像机 {0}, {1}创建设定文档...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera {0} recipe creation complete!</Key>
+    <String>像机 {0} 设定文档创建完成!</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera Setup Tool</Key>
+    <String>像机设置工具</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Recipe is not setup! You must set the golden values before continuing.</Key>
+    <String>设定文件未被设置！必须设定最佳值。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Are you sure you want to create a recipe for camera {0}?</Key>
+    <String>确定创建为像机 {0} 设定文件？</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Desired</Key>
+    <String>期望值</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Recipe Options</Key>
+    <String>配方选项</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Create Recipe</Key>
+    <String>创建配方</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Edit Tool</Key>
+    <String>修改工具</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>{0}</Key>
+    <String>{0}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Recipe applied {1}.
+Recipe created {0} on this machine.</Key>
+    <String>配方生效时间为 {1}.
+配方在本机的创建时间为 {0}.
+    </String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>No recipe created.</Key>
+    <String>未生成配方.</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Are you sure you want to create a recipe for camera {0} config {1}?</Key>
+    <String>您是否确定要为像机{0}配置{1}创建配方?</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Setting Up Camera {0} Config {1}...</Key>
+    <String>正在设置像机{0}配置{1}...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Creating recipe for Camera {0} Config {1}, {2}...</Key>
+    <String>正在为像机{0}配置{1}，{2}创建配方...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera {0} Config {1} recipe creation complete!</Key>
+    <String>像机{0}配置{1}配方创建完毕！</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>This camera is not ready according to the recipe! Are you sure you want to continue?</Key>
+    <String>根据配方判断，此像机尚未设置好！您确定要继续吗？</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Never</Key>
+    <String>决不</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Setting Up Camera {0} Config {0}...</Key>
+    <String>正在设置像机{0}配置{0}...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Setting Up Camera {0} Config {1}, {2}...</Key>
+    <String>正在设置像机{0}配置{1}，{2}...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Apply</Key>
+    <String>生效</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Golden</Key>
+    <String>最佳图像效果</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Runtime Exposure</Key>
+    <String>运行中曝光时间</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>This Machine</Key>
+    <String>本机图像效果</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Setup Exposure</Key>
+    <String>设置曝光时间</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Multiplier</Key>
+    <String>曝光时间倍率</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Selected Recipe:</Key>
+    <String>当前配方：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera {0} Config {1} setup complete!</Key>
+    <String>像机{0}配置{1}设置完毕！</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Acquisition Setup</Key>
+    <String>取像设置</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Snap Reference Image</Key>
+    <String>存贮参考图像</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration:</Key>
+    <String>标定:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>No recipe is loaded!</Key>
+    <String>未加载任何配方！</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Edit Autocal Template Tool...</Key>
+    <String>修改自动标定标准模板</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration {0}</Key>
+    <String>标定{0}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Inspection {0}</Key>
+    <String>检查{0}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Inspection {0} was not loaded! Would you like to create a new inspection tool?</Key>
+    <String>检测{0}未加载！您想创建新检测工具吗？</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Create New Inspection Tool</Key>
+    <String>创建新检测工具</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Physical Configuration:</Key>
+    <String>场景位置设置</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Add Record Display</Key>
+    <String>添加显示记录</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Record Displays:</Key>
+    <String>显示的记录：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Lighting Dwell Time:</Key>
+    <String>光源等待时间：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Inspection Name:</Key>
+    <String>检测名称：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Dwell Time:</Key>
+    <String>等待时间：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Offscreen (Save Only)</Key>
+    <String>不显示（仅存储）</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>on Display {0}</Key>
+    <String>显示于区域{0}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Show Record</Key>
+    <String>将记录</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Input {2} - Camera {0} ({1})</Key>
+    <String>输入{2} - 像机 {0} ({1})</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>1</Key>
+    <String>1</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Brightness:</Key>
+    <String>亮度：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Contrast:</Key>
+    <String>对比度：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Timeout:</Key>
+    <String>限时：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Trigger Mode:</Key>
+    <String>出发模式：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Hardware Trigger Polarity:</Key>
+    <String>硬件出发极性：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera Type:</Key>
+    <String>像机类型：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Gig-E Settings</Key>
+    <String>Gig-E设置</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Note: Changes to the AcqFifo will not be saved when the framework exits.</Key>
+    <String>注：在AcqFifo上做的修改将不被存储，会于程序退出时丢失。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Edit AcqFifo</Key>
+    <String>修改AcqFifo</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Align Home2D to Motion2D at Image Center</Key>
+    <String>使图像中心在Home2D和Motion2D坐标相同</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Distortion Model:</Key>
+    <String>畸变模型：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Warning: Setting a minimum rotation span less than 5 degrees could result in inaccurate rotational calibration.</Key>
+    <String>警告：旋转角范围小于5度可能会使旋转中心标定不准确。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration Plate Pitch:</Key>
+    <String>标定片棋盘格大小：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Minimum Rotation Span:</Key>
+    <String>最小旋转角范围：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Degrees of Freedom:</Key>
+    <String>自由度：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera Motion:</Key>
+    <String>相机运动：</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Loading Setup Tool...</Key>
+    <String>正在加载设置工具...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera Setup Recipe Options</Key>
+    <String>像机设置配方选项</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Tolerances</Key>
+    <String>允许范围</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Tilt: ±</Key>
+    <String>倾斜：±</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Focus: -</Key>
+    <String>聚焦：-</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Rotation: ±</Key>
+    <String>旋转：±</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>FOV X: ±</Key>
+    <String>视野 X：±</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Translation: ±</Key>
+    <String>平移：±</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>px</Key>
+    <String>像素</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>FOV Y: ±</Key>
+    <String>视野 Y：±</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Could not apply recipe because this fixture is more than 50% brighter than the golden fixture.</Key>
+    <String>不能使用配方，因为本机亮度比标准亮度超过50%。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera {0} Config {1} setup failed!</Key>
+    <String>像机{0}设置{1}设定失败！</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Could not apply recipe because this fixture is more than 50% darker than the golden fixture.</Key>
+    <String>不能使用配方，因为本机亮度比标准亮度低于50%。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>No calibration tool was loaded. Continuing will generate a new calibration tool for you. Would you like to generate an autocalibration tool? Press 'No' to generate a manual calibration toolblock.</Key>
+    <String>未加载标定工具。如继续，将生成新标定工具。您想创建自动标定工具块吗？选‘否'将生成手动标定工具块。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Compare Stable</Key>
+    <String>和稳定版本进行比较</String>
+  </TranslationStrings>
+</WritableStringDictionary>

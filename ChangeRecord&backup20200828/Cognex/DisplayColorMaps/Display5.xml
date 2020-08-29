@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CogDisplayColormap>
+  <Version>1.0</Version>
+  <ColorMapPredefined>None</ColorMapPredefined>
+  <ColorMapLowerRoiLimit>0</ColorMapLowerRoiLimit>
+  <ColorMapUpperRoiLimit>1</ColorMapUpperRoiLimit>
+  <ColorMapLowerClipColor>Black</ColorMapLowerClipColor>
+  <ColorMapUpperClipColor>Black</ColorMapUpperClipColor>
+  <VisiblePixelMaskEnable>True</VisiblePixelMaskEnable>
+  <VisiblePixelMaskColor>#640A0A</VisiblePixelMaskColor>
+</CogDisplayColormap>

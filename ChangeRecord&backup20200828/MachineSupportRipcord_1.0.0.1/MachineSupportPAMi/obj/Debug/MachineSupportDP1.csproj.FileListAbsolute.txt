@@ -1,0 +1,7 @@
+D:\Cognex\Cognex-Run\Cognex\Cognex.VS.MachineSupport.dll
+D:\Cognex\Cognex-Run\Cognex\Cognex.VS.MachineSupport.pdb
+D:\Cognex\Cognex-Run\MachineSupportBZDP1\MachineSupportBZDP1\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex\Cognex-Run\MachineSupportBZDP1\MachineSupportBZDP1\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\Cognex\Cognex-Run\MachineSupportDP1\MachineSupportDP1\obj\Debug\MachineSupportDP1.csprojResolveAssemblyReference.cache
+D:\Cognex\Cognex-Run\MachineSupportDP1\MachineSupportDP1\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex\Cognex-Run\MachineSupportDP1\MachineSupportDP1\obj\Debug\Cognex.VS.MachineSupport.pdb

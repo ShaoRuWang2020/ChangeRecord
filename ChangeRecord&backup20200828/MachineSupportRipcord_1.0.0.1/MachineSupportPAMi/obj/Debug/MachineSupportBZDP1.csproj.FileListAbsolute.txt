@@ -1,0 +1,33 @@
+C:\Users\CTOS.CTOS-PC.000\Desktop\Cognex-Run\MachineSupportBZDP1\MachineSupportBZDP1\obj\Debug\MachineSupportBZDP1.csprojResolveAssemblyReference.cache
+C:\Users\CTOS.CTOS-PC.000\Desktop\Cognex-Run\MachineSupportBZDP1\MachineSupportBZDP1\bin\Debug\Cognex.VS.MachineSupport.dll
+C:\Users\CTOS.CTOS-PC.000\Desktop\Cognex-Run\MachineSupportBZDP1\MachineSupportBZDP1\bin\Debug\Cognex.VS.MachineSupport.pdb
+C:\Users\CTOS.CTOS-PC.000\Desktop\Cognex-Run\MachineSupportBZDP1\MachineSupportBZDP1\obj\Debug\Cognex.VS.MachineSupport.dll
+C:\Users\CTOS.CTOS-PC.000\Desktop\Cognex-Run\MachineSupportBZDP1\MachineSupportBZDP1\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\Cognex-Backup\Cognex-Run-TESTUPGRADE\MachineSupportBZDP1\MachineSupportBZDP1\bin\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex-Backup\Cognex-Run-TESTUPGRADE\MachineSupportBZDP1\MachineSupportBZDP1\bin\Debug\Cognex.VS.MachineSupport.pdb
+D:\Cognex-Backup\Cognex-Run-TESTUPGRADE\MachineSupportBZDP1\MachineSupportBZDP1\bin\Debug\Cognex.VS.Utility.dll
+D:\Cognex-Backup\Cognex-Run-TESTUPGRADE\MachineSupportBZDP1\MachineSupportBZDP1\bin\Debug\Cognex.VisionPro.dll
+D:\Cognex-Backup\Cognex-Run-TESTUPGRADE\MachineSupportBZDP1\MachineSupportBZDP1\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Cognex-Backup\Cognex-Run-TESTUPGRADE\MachineSupportBZDP1\MachineSupportBZDP1\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Cognex-Backup\Cognex-Run-TESTUPGRADE\MachineSupportBZDP1\MachineSupportBZDP1\bin\Debug\Cognex.VisionPro.Comm.dll
+D:\Cognex-Backup\Cognex-Run-TESTUPGRADE\MachineSupportBZDP1\MachineSupportBZDP1\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Cognex-Backup\Cognex-Run-TESTUPGRADE\MachineSupportBZDP1\MachineSupportBZDP1\bin\Debug\Cognex.VisionPro.xml
+D:\Cognex-Backup\Cognex-Run-TESTUPGRADE\MachineSupportBZDP1\MachineSupportBZDP1\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Cognex-Backup\Cognex-Run-TESTUPGRADE\MachineSupportBZDP1\MachineSupportBZDP1\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Cognex-Backup\Cognex-Run-TESTUPGRADE\MachineSupportBZDP1\MachineSupportBZDP1\bin\Debug\Cognex.VisionPro.Comm.xml
+D:\Cognex-Backup\Cognex-Run-TESTUPGRADE\MachineSupportBZDP1\MachineSupportBZDP1\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Cognex-Backup\Cognex-Run-TESTUPGRADE\MachineSupportBZDP1\MachineSupportBZDP1\obj\Debug\MachineSupportBZDP1.csprojResolveAssemblyReference.cache
+D:\Cognex-Backup\Cognex-Run-TESTUPGRADE\MachineSupportBZDP1\MachineSupportBZDP1\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex-Backup\Cognex-Run-TESTUPGRADE\MachineSupportBZDP1\MachineSupportBZDP1\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\Cognex-Backup\Cognex-Run-TESTUPGRADE\Cognex\Cognex.VS.MachineSupport.dll
+D:\Cognex-Backup\Cognex-Run-TESTUPGRADE\Cognex\Cognex.VS.MachineSupport.pdb
+D:\Cognex\Cognex-Run\Cognex\Cognex.VS.MachineSupport.dll
+D:\Cognex\Cognex-Run\Cognex\Cognex.VS.MachineSupport.pdb
+D:\Cognex\Cognex-Run\MachineSupportBZDP1\MachineSupportBZDP1\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex\Cognex-Run\MachineSupportBZDP1\MachineSupportBZDP1\obj\Debug\Cognex.VS.MachineSupport.pdb
+C:\Users\CTOS.CTOS-PC.000\Desktop\Cognex Run-New\Cognex\Cognex.VS.MachineSupport.dll
+C:\Users\CTOS.CTOS-PC.000\Desktop\Cognex Run-New\Cognex\Cognex.VS.MachineSupport.pdb
+C:\Users\CTOS.CTOS-PC.000\Desktop\Cognex Run-New\MachineSupportBZDP1\MachineSupportBZDP1\obj\Debug\MachineSupportBZDP1.csprojResolveAssemblyReference.cache
+C:\Users\CTOS.CTOS-PC.000\Desktop\Cognex Run-New\MachineSupportBZDP1\MachineSupportBZDP1\obj\Debug\Cognex.VS.MachineSupport.dll
+C:\Users\CTOS.CTOS-PC.000\Desktop\Cognex Run-New\MachineSupportBZDP1\MachineSupportBZDP1\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\Cognex\Cognex-Run\MachineSupportBZDP1\MachineSupportBZDP1\obj\Debug\MachineSupportBZDP1.csprojResolveAssemblyReference.cache

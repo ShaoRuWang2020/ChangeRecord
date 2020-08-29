@@ -1,0 +1,128 @@
+D:\Cognex\Cognex-Run\MachineSupportPAMi\MachineSupportDP1\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+D:\Cognex\Cognex-Run\MachineSupportPAMi\MachineSupportDP1\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex\Cognex-Run\MachineSupportPAMi\MachineSupportDP1\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\Cognex\Backup\0202\new\COGNEX\Cognex.VS.MachineSupport.dll
+D:\Cognex\Backup\0202\new\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\Cognex\Backup\0202\new\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+D:\Cognex\Backup\0202\new\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex\Backup\0202\new\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\Cognex\Backup\AutoCalibration Development\Cognex-Run\COGNEX\Cognex.VS.MachineSupport.dll
+D:\Cognex\Backup\AutoCalibration Development\Cognex-Run\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\Cognex\Backup\AutoCalibration Development\Cognex-Run\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+D:\Cognex\Backup\AutoCalibration Development\Cognex-Run\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex\Backup\AutoCalibration Development\Cognex-Run\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\Cognex\Cognex-Run\COGNEX\Cognex.VS.MachineSupport.dll
+D:\Cognex\Cognex-Run\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\Cognex\Cognex-Run\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex\Cognex-Run\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\PAMi4\COGNEX\Cognex.VS.MachineSupport.dll
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\PAMi4\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\PAMi4\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\PAMi4\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\PAMi4\COGNEX\Cognex.VS.MachineSupport.pdb
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\PAMi Program\20171211_PAMi_RS_v2.5.1.8_VPro9.1SR1\COGNEX\Cognex.VS.MachineSupport.dll
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\PAMi Program\20171211_PAMi_RS_v2.5.1.8_VPro9.1SR1\COGNEX\Cognex.VS.MachineSupport.pdb
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\PAMi Program\20171211_PAMi_RS_v2.5.1.8_VPro9.1SR1\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\PAMi Program\20171211_PAMi_RS_v2.5.1.8_VPro9.1SR1\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\PAMi Program\20171211_PAMi_RS_v2.5.1.8_VPro9.1SR1\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\PAMi Program\20171211_PAMi_RS_v2.5.1.8_VPro9.1SR1\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.FormCDBAcq.resources
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\PAMi Program\20171211_PAMi_RS_v2.5.1.8_VPro9.1SR1\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csproj.GenerateResource.Cache
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\PAMi Program\20171211_PAMi_RS_v2.5.1.8_VPro9.1SR1\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.CustomSettings.resources
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\PAMi Program\20171211_PAMi_RS_v2.5.1.8_VPro9.1SR1\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.CustomSettings_GetCommand.resources
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\PAMi Program\20171211_PAMi_RS_v2.5.1.8_VPro9.1SR1\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.MachineAssemblySettingsForm.resources
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\20171211_PAMi_RS_v2.5.1.8_VPro9.1SR1\COGNEX\Cognex.VS.MachineSupport.dll
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\20171211_PAMi_RS_v2.5.1.8_VPro9.1SR1\COGNEX\Cognex.VS.MachineSupport.pdb
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\20171211_PAMi_RS_v2.5.1.8_VPro9.1SR1\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\20171211_PAMi_RS_v2.5.1.8_VPro9.1SR1\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\20171211_PAMi_RS_v2.5.1.8_VPro9.1SR1\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\20171226_PAMi_RS_v2.5.1.8_VPro9.1SR1\COGNEX\Cognex.VS.MachineSupport.dll
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\20171226_PAMi_RS_v2.5.1.8_VPro9.1SR1\COGNEX\Cognex.VS.MachineSupport.pdb
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\20171226_PAMi_RS_v2.5.1.8_VPro9.1SR1\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\20171226_PAMi_RS_v2.5.1.8_VPro9.1SR1\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+C:\Users\szhu\Desktop\PAMi Inspection Optimize\20171226_PAMi_RS_v2.5.1.8_VPro9.1SR1\MachineSupportPAMi\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\Cognex\Run\20171227_RS_PAMi5 Program_N84 V1.3\COGNEX\Cognex.VS.MachineSupport.dll
+D:\Cognex\Run\20171227_RS_PAMi5 Program_N84 V1.3\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\Cognex\Run\20171227_RS_PAMi5 Program_N84 V1.3\MachineSupportPAMi_20171227\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex\Run\20171227_RS_PAMi5 Program_N84 V1.3\MachineSupportPAMi_20171227\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\Cognex\Run\20171227_RS_PAMi5 Program_N84 V1.4\COGNEX\Cognex.VS.MachineSupport.dll
+D:\Cognex\Run\20171227_RS_PAMi5 Program_N84 V1.4\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\Cognex\Run\20171227_RS_PAMi5 Program_N84 V1.4\MachineSupportPAMi_20171227\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+D:\Cognex\Run\20171227_RS_PAMi5 Program_N84 V1.4\MachineSupportPAMi_20171227\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex\Run\20171227_RS_PAMi5 Program_N84 V1.4\MachineSupportPAMi_20171227\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\Cognex\Run\20171227_PAMi_RS_v2.5.1.8_VPro9.1SR1_V2.0.0.1\COGNEX\Cognex.VS.MachineSupport.dll
+D:\Cognex\Run\20171227_PAMi_RS_v2.5.1.8_VPro9.1SR1_V2.0.0.1\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\Cognex\Run\20171227_PAMi_RS_v2.5.1.8_VPro9.1SR1_V2.0.0.1\MachineSupportPAMi_20171227\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex\Run\20171227_PAMi_RS_v2.5.1.8_VPro9.1SR1_V2.0.0.1\MachineSupportPAMi_20171227\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\Cognex\Run\20171227_PAMi_RS_v2.5.1.8_VPro9.1SR1_V2.0.0.1\MachineSupportPAMi_2.0.0.3\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex\Run\20171227_PAMi_RS_v2.5.1.8_VPro9.1SR1_V2.0.0.1\MachineSupportPAMi_2.0.0.3\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\Cognex\AppBackup\20180101\20171228_PAMi_RS_v2.5.1.8_VPro9.1SR1_V2.0.0.1\COGNEX\Cognex.VS.MachineSupport.dll
+D:\Cognex\AppBackup\20180101\20171228_PAMi_RS_v2.5.1.8_VPro9.1SR1_V2.0.0.1\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\Cognex\AppBackup\20180101\20171228_PAMi_RS_v2.5.1.8_VPro9.1SR1_V2.0.0.1\MachineSupportPAMi_2.0.0.3\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex\AppBackup\20180101\20171228_PAMi_RS_v2.5.1.8_VPro9.1SR1_V2.0.0.1\MachineSupportPAMi_2.0.0.3\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\program\BZ\P1\20180102_PAMi_RS_v2.5.1.8_VPro9.2CR2_V2.0.0.3\MachineSupportPAMi_2.0.0.3\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\program\BZ\P1\20180102_PAMi_RS_v2.5.1.8_VPro9.2CR2_V2.0.0.3\MachineSupportPAMi_2.0.0.3\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\program\BZ\P1\20180102_PAMi_RS_v2.5.1.8_VPro9.2CR2_V2.0.0.3\COGNEX\Cognex.VS.MachineSupport.dll
+D:\program\BZ\P1\20180102_PAMi_RS_v2.5.1.8_VPro9.2CR2_V2.0.0.3\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\Cognex\CurrentProgram\COGNEX\Cognex.VS.MachineSupport.dll
+D:\Cognex\CurrentProgram\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\Cognex\CurrentProgram\MachineSupportPAMi_2.0.0.3\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex\CurrentProgram\MachineSupportPAMi_2.0.0.3\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\Cognex\CurrentProgram\MachineSupportPAMi_2.0.0.3\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+D:\Cognex\BackUpProgram\CurrentProgram_CCPI\COGNEX\Cognex.VS.MachineSupport.dll
+D:\Cognex\BackUpProgram\CurrentProgram_CCPI\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\Cognex\BackUpProgram\CurrentProgram_CCPI\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+D:\Cognex\BackUpProgram\CurrentProgram_CCPI\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex\BackUpProgram\CurrentProgram_CCPI\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\Cognex\CurrentProgram_CCPI\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex\CurrentProgram_CCPI\COGNEX\Cognex.VS.MachineSupport.dll
+D:\Cognex\CurrentProgram_CCPI\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\Cognex\CurrentProgram_CCPI\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\Cognex\CurrentProgram\CurrentProgram_CCPI20180530GAP11\COGNEX\Cognex.VS.MachineSupport.dll
+D:\Cognex\CurrentProgram\CurrentProgram_CCPI20180530GAP11\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\Cognex\CurrentProgram\CurrentProgram_CCPI20180530GAP11\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+D:\Cognex\CurrentProgram\CurrentProgram_CCPI20180530GAP11\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex\CurrentProgram\CurrentProgram_CCPI20180530GAP11\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\Cognex\hjp\CurrentProgram_CCPI20180530GAP11\COGNEX\Cognex.VS.MachineSupport.dll
+D:\Cognex\hjp\CurrentProgram_CCPI20180530GAP11\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\Cognex\hjp\CurrentProgram_CCPI20180530GAP11\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+D:\Cognex\hjp\CurrentProgram_CCPI20180530GAP11\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\Cognex\hjp\CurrentProgram_CCPI20180530GAP11\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\HotBar\20190429_FW_Pack_v3.2.0.6_VPro9.2CR2\20190428_D4X_CPPI_BZ_EVT_App_V3.1.0.1_VPro9.2CR2\COGNEX\Cognex.VS.MachineSupport.dll
+D:\HotBar\20190429_FW_Pack_v3.2.0.6_VPro9.2CR2\20190428_D4X_CPPI_BZ_EVT_App_V3.1.0.1_VPro9.2CR2\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\HotBar\20190429_FW_Pack_v3.2.0.6_VPro9.2CR2\20190428_D4X_CPPI_BZ_EVT_App_V3.1.0.1_VPro9.2CR2\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+D:\HotBar\20190429_FW_Pack_v3.2.0.6_VPro9.2CR2\20190428_D4X_CPPI_BZ_EVT_App_V3.1.0.1_VPro9.2CR2\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\HotBar\20190429_FW_Pack_v3.2.0.6_VPro9.2CR2\20190428_D4X_CPPI_BZ_EVT_App_V3.1.0.1_VPro9.2CR2\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\HotBar\CPPI\20190611_D4X_CPPI_BZ_CRB_App_V3.2.0.1_VPro9.2CR2\COGNEX\Cognex.VS.MachineSupport.dll
+D:\HotBar\CPPI\20190611_D4X_CPPI_BZ_CRB_App_V3.2.0.1_VPro9.2CR2\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\HotBar\CPPI\20190611_D4X_CPPI_BZ_CRB_App_V3.2.0.1_VPro9.2CR2\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+D:\HotBar\CPPI\20190611_D4X_CPPI_BZ_CRB_App_V3.2.0.1_VPro9.2CR2\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\HotBar\CPPI\20190611_D4X_CPPI_BZ_CRB_App_V3.2.0.1_VPro9.2CR2\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\2020\RipCord\20190611_D4X_CPPI_BZ_CRB_App_V3.2.0.1_VPro9.2CR2\COGNEX\Cognex.VS.MachineSupport.dll
+D:\2020\RipCord\20190611_D4X_CPPI_BZ_CRB_App_V3.2.0.1_VPro9.2CR2\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\2020\RipCord\20190611_D4X_CPPI_BZ_CRB_App_V3.2.0.1_VPro9.2CR2\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+D:\2020\RipCord\20190611_D4X_CPPI_BZ_CRB_App_V3.2.0.1_VPro9.2CR2\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\2020\RipCord\20190611_D4X_CPPI_BZ_CRB_App_V3.2.0.1_VPro9.2CR2\MachineSupportCCPI_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\2020\RipCord\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\COGNEX\Cognex.VS.MachineSupport.dll
+D:\2020\RipCord\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\2020\RipCord\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\MachineSupportRipcord_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\2020\RipCord\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\MachineSupportRipcord_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\cognex\program\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\COGNEX\Cognex.VS.MachineSupport.dll
+D:\cognex\program\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\cognex\program\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\MachineSupportRipcord_1.0.0.1\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+D:\cognex\program\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\MachineSupportRipcord_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\cognex\program\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\MachineSupportRipcord_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\COGNEX\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\COGNEX\Cognex.VS.MachineSupport.dll
+D:\COGNEX\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\COGNEX\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\MachineSupportRipcord_1.0.0.1\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+D:\COGNEX\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\MachineSupportRipcord_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\COGNEX\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\20200504_D5X_RipCord_Frontier_EVT_App_FW3.3.0.6_VPro9.5SR2\MachineSupportRipcord_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+D:\COGNEX\ChangeRecord&backup20200821\COGNEX\Cognex.VS.MachineSupport.dll
+D:\COGNEX\ChangeRecord&backup20200821\COGNEX\Cognex.VS.MachineSupport.pdb
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+D:\COGNEX\ChangeRecord&backup20200821\MachineSupportRipcord_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\COGNEX\Cognex.VS.MachineSupport.dll
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\COGNEX\Cognex.VS.MachineSupport.pdb
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\MachineSupportRipcord_1.0.0.1\MachineSupportPAMi\obj\Debug\MachineSupportPAMi.csprojResolveAssemblyReference.cache
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\MachineSupportRipcord_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.dll
+C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\MachineSupportRipcord_1.0.0.1\MachineSupportPAMi\obj\Debug\Cognex.VS.MachineSupport.pdb

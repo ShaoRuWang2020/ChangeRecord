@@ -1,0 +1,12 @@
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\bin\Release\JNote.exe.config
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Release\JNote.exe
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\bin\Release\JNote.exe
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\bin\Release\RichTextBoxExtended.dll
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Release\CS_Note1.csprojResolveAssemblyReference.cache
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Release\CS_Note1.CreateVersion.resources
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Release\CS_Note1.FormAbout.resources
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Release\CS_Note1.FormJ.resources
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Release\CS_Note1.FormSave.resources
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Release\CS_Note1.NewBranch.resources
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Release\CS_Note1.Properties.Resources.resources
+G:\Easy-To-Use\Test_ChangeList\Winform_FW_ChangeList_Update\obj\Release\CS_Note1.csproj.GenerateResource.Cache

@@ -1,0 +1,47 @@
+<opml>
+  <head>
+    <title>YuJieRSS阅读器</title>
+  </head>
+  <body>
+    <Branch1.0>
+      <Abstract.rtf />
+      <MachineSupportAndPorposal>
+        <Proposal.rtf />
+      </MachineSupportAndPorposal>
+      <VPP_ChangeList>
+        <T22222_Detect_FG_Label.rtf />
+        <T21_Detect_FB_Label.rtf />
+        <T1_Locate_Phone.rtf />
+      </VPP_ChangeList>
+    </Branch1.0>
+    <Branch2.0>
+      <Abstract.rtf />
+      <MachineSupportAndPorposal>
+        <Proposal.rtf />
+      </MachineSupportAndPorposal>
+      <VPP_ChangeList>
+        <T22_Detect_FG_Label.rtf />
+        <T21_Detect_FB_Label.rtf />
+        <T1_Locate_Phone.rtf />
+      </VPP_ChangeList>
+    </Branch2.0>
+  </body>
+  <Rollback>
+    <Branch1.0>
+      <VPP_ChangeList>
+        <T22222_Detect_FG_Label />
+        <T21_Detect_FB_Label />
+        <T1_Locate_Phone />
+      </VPP_ChangeList>
+    </Branch1.0>
+    <Branch2.0>
+      <VPP_ChangeList>
+        <T22_Detect_FG_Label>
+          <Version3.3.1.1>True_True</Version3.3.1.1>
+        </T22_Detect_FG_Label>
+        <T21_Detect_FB_Label />
+        <T1_Locate_Phone />
+      </VPP_ChangeList>
+    </Branch2.0>
+  </Rollback>
+</opml>

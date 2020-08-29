@@ -1,0 +1,826 @@
+20200829_09:53:38.214	Info	Launched Cognex AssemblyPlus v. 3.3.1.1 (for 9.5 SR2 64 bit)
+20200829_09:53:38.748	Info	Loaded machine assembly for Ripcord
+20200829_09:53:42.190	Alarm	像机1的IP地址不是192.168.21.101
+20200829_09:53:42.193	Info		Cannot setup AcqFifo for jobID 1 no supported cam found at IP address 192.168.21.101
+20200829_09:53:42.210	Alarm	像机2的IP地址不是192.168.22.101
+20200829_09:53:42.210	Info		Cannot setup AcqFifo for jobID 2 no supported cam found at IP address 192.168.22.101
+20200829_09:53:42.210	Alarm	像机3的IP地址不是192.168.23.101
+20200829_09:53:42.210	Info		Cannot setup AcqFifo for jobID 3 no supported cam found at IP address 192.168.23.101
+20200829_09:53:42.210	Alarm	像机4的IP地址不是192.168.24.101
+20200829_09:53:42.210	Info		Cannot setup AcqFifo for jobID 4 no supported cam found at IP address 192.168.24.101
+20200829_09:53:42.210	Alarm	像机5的IP地址不是192.168.25.101
+20200829_09:53:42.210	Info		Cannot setup AcqFifo for jobID 5 no supported cam found at IP address 192.168.25.101
+20200829_09:55:31.475	Info	Launched Cognex AssemblyPlus v. 3.3.1.1 (for 9.5 SR2 64 bit)
+20200829_09:55:31.998	Info	Loaded machine assembly for Ripcord
+20200829_09:55:34.316	Alarm	像机1的IP地址不是192.168.21.101
+20200829_09:55:34.319	Info		Cannot setup AcqFifo for jobID 1 no supported cam found at IP address 192.168.21.101
+20200829_09:55:34.336	Alarm	像机2的IP地址不是192.168.22.101
+20200829_09:55:34.336	Info		Cannot setup AcqFifo for jobID 2 no supported cam found at IP address 192.168.22.101
+20200829_09:55:34.336	Alarm	像机3的IP地址不是192.168.23.101
+20200829_09:55:34.336	Info		Cannot setup AcqFifo for jobID 3 no supported cam found at IP address 192.168.23.101
+20200829_09:55:34.336	Alarm	像机4的IP地址不是192.168.24.101
+20200829_09:55:34.336	Info		Cannot setup AcqFifo for jobID 4 no supported cam found at IP address 192.168.24.101
+20200829_09:55:34.336	Alarm	像机5的IP地址不是192.168.25.101
+20200829_09:55:34.336	Info		Cannot setup AcqFifo for jobID 5 no supported cam found at IP address 192.168.25.101
+20200829_09:56:30.758	Info	Launched Cognex AssemblyPlus v. 3.3.1.1 (for 9.5 SR2 64 bit)
+20200829_09:56:31.498	Info	Loaded machine assembly for Ripcord
+20200829_09:56:35.418	Alarm	像机1的IP地址不是192.168.21.101
+20200829_09:56:35.420	Info		Cannot setup AcqFifo for jobID 1 no supported cam found at IP address 192.168.21.101
+20200829_09:56:35.435	Alarm	像机2的IP地址不是192.168.22.101
+20200829_09:56:35.435	Info		Cannot setup AcqFifo for jobID 2 no supported cam found at IP address 192.168.22.101
+20200829_09:56:35.435	Alarm	像机3的IP地址不是192.168.23.101
+20200829_09:56:35.435	Info		Cannot setup AcqFifo for jobID 3 no supported cam found at IP address 192.168.23.101
+20200829_09:56:35.435	Alarm	像机4的IP地址不是192.168.24.101
+20200829_09:56:35.435	Info		Cannot setup AcqFifo for jobID 4 no supported cam found at IP address 192.168.24.101
+20200829_09:56:35.435	Alarm	像机5的IP地址不是192.168.25.101
+20200829_09:56:35.435	Info		Cannot setup AcqFifo for jobID 5 no supported cam found at IP address 192.168.25.101
+20200829_09:56:35.714	Info	No file found for Calibration_2 so nothing was loaded.
+20200829_09:56:35.716	Info	No file found for Calibration_5 so nothing was loaded.
+20200829_09:56:35.718	Info	No file found for Calibration_1 so nothing was loaded.
+20200829_09:56:35.719	Info	No file found for Calibration_3 so nothing was loaded.
+20200829_09:56:35.721	Info	No file found for Calibration_4 so nothing was loaded.
+20200829_09:56:35.724	Info	No file found for Calibration_6 so nothing was loaded.
+20200829_09:56:35.739	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_09:56:35.739	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_09:56:35.739	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_09:56:35.739	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_09:56:35.739	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_09:56:35.739	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_09:56:37.312	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_1.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_09:56:37.314	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_2.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_09:56:37.314	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_3.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_09:56:37.378	Info	System checksum calculation complete!
+20200829_09:56:37.378	Info	Framework Version: 3.3.0.6
+20200829_09:56:37.378	Info	Framework Checksum: 84eeefa9f63e4956187c7cdb43f7f0d6
+20200829_09:56:37.378	Info	Machine Assembly Type: Ripcord
+20200829_09:56:37.378	Info	Machine Assembly Version: 1.1.0.1
+20200829_09:56:37.378	Info	Machine Assembly Checksum: 95e4cf4301373872379d681db892ffe2
+20200829_09:56:37.378	Info	Utility Version: 3.3.0.6
+20200829_09:56:37.378	Info	Utility Checksum: 5367b48789cc60839d2583f2b9deba3e
+20200829_09:56:37.378	Info	Configuration Checksum: 597dbbb008eb7b50678c22cfd163c1d2
+20200829_09:56:37.378	Info	Configuration Checksum: 3877d2480d11ba2ce650821a285c4e37
+20200829_09:56:37.378	Info	Calibration_2.vpp Checksum: 00
+20200829_09:56:37.378	Info	Calibration_5.vpp Checksum: 00
+20200829_09:56:37.378	Info	Calibration_1.vpp Checksum: 00
+20200829_09:56:37.378	Info	Calibration_3.vpp Checksum: 00
+20200829_09:56:37.378	Info	Calibration_4.vpp Checksum: 00
+20200829_09:56:37.378	Info	Calibration_6.vpp Checksum: 00
+20200829_09:56:37.378	Info	Inspection_2.vpp Checksum: 18da77c219308ac7ec74ca145ec88ef2
+20200829_09:56:37.378	Info	Inspection_1.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_09:56:37.378	Info	Inspection_3.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_09:56:37.378	Info	Master Setup Checksum: 727e3795f84ecb690a478909eae398a6
+20200829_09:56:37.428	Info	正在寻找插件 ...
+20200829_09:56:37.428	Info	正在Plugins\LightControllerFallback.dll程序中寻找插件类型 ...
+20200829_09:56:37.500	Info	已加载光源控制器，型号 Cog_BZ_LC_24_A, v1.0.0.0
+20200829_09:56:37.500	Info	已加载光源控制器，型号 Cog_BZ_LH_LC_24_A, v1.0.0.0
+20200829_09:56:37.500	Info	已加载光源控制器，型号 Cog_OPT_DC4_24F, v1.0.0.0
+20200829_09:56:37.500	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16, v1.0.0.0
+20200829_09:56:37.500	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4, v1.0.0.0
+20200829_09:56:37.500	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16_Serial, v1.0.0.0
+20200829_09:56:37.500	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4_Serial, v1.0.0.0
+20200829_09:56:37.500	Info	插件加载完毕
+20200829_09:56:37.508	Info	Light controller 1 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_09:56:37.512	Info	Light controller 2 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_09:56:37.518	Info	Light controller 3 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_09:56:38.438	Alarm	Error Refreshing UI!
+20200829_09:56:38.438	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:38.483	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:56:39.391	Alarm	Error Refreshing UI!
+20200829_09:56:39.391	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:39.391	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:56:40.388	Alarm	Error Refreshing UI!
+20200829_09:56:40.388	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:40.388	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:56:41.399	Alarm	Error Refreshing UI!
+20200829_09:56:41.399	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:41.399	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:56:42.379	Alarm	Error Refreshing UI!
+20200829_09:56:42.379	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:42.379	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:56:43.383	Alarm	Error Refreshing UI!
+20200829_09:56:43.383	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:43.383	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:56:44.388	Alarm	Error Refreshing UI!
+20200829_09:56:44.388	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:44.388	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:56:45.387	Alarm	Error Refreshing UI!
+20200829_09:56:45.387	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:45.387	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:56:46.381	Alarm	Error Refreshing UI!
+20200829_09:56:46.381	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:46.381	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:56:47.389	Alarm	Error Refreshing UI!
+20200829_09:56:47.389	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:47.389	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:56:48.386	Alarm	Error Refreshing UI!
+20200829_09:56:48.386	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:48.386	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:56:49.395	Alarm	Error Refreshing UI!
+20200829_09:56:49.395	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:49.395	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:56:50.389	Alarm	Error Refreshing UI!
+20200829_09:56:50.389	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:50.389	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:56:51.386	Alarm	Error Refreshing UI!
+20200829_09:56:51.386	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:51.387	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:56:52.379	Alarm	Error Refreshing UI!
+20200829_09:56:52.379	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:52.379	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:56:53.396	Alarm	Error Refreshing UI!
+20200829_09:56:53.396	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:53.396	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:56:54.401	Alarm	Error Refreshing UI!
+20200829_09:56:54.401	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:54.401	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:56:55.403	Alarm	Error Refreshing UI!
+20200829_09:56:55.403	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:55.403	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:56:56.399	Alarm	Error Refreshing UI!
+20200829_09:56:56.399	Info		Could not load file or assembly 'Cognex.VPE.InspectPro.CVL, Version=0.0.0.0, Culture=neutral, PublicKeyToken=327b66dca15786ab' or one of its dependencies. The system cannot find the file specified.
+20200829_09:56:56.399	Info		   at AlignVisSystem.MainForm.ShowInspectProConnectionStats()
+   at AlignVisSystem.MainForm.OnTime1(Object sender, EventArgs e)
+20200829_09:57:45.814	Info	Launched Cognex AssemblyPlus v. 3.3.1.1 (for 9.5 SR2 64 bit)
+20200829_09:57:46.305	Info	Loaded machine assembly for Ripcord
+20200829_09:57:48.691	Alarm	像机1的IP地址不是192.168.21.101
+20200829_09:57:48.694	Info		Cannot setup AcqFifo for jobID 1 no supported cam found at IP address 192.168.21.101
+20200829_09:57:48.712	Alarm	像机2的IP地址不是192.168.22.101
+20200829_09:57:48.712	Info		Cannot setup AcqFifo for jobID 2 no supported cam found at IP address 192.168.22.101
+20200829_09:57:48.712	Alarm	像机3的IP地址不是192.168.23.101
+20200829_09:57:48.712	Info		Cannot setup AcqFifo for jobID 3 no supported cam found at IP address 192.168.23.101
+20200829_09:57:48.713	Alarm	像机4的IP地址不是192.168.24.101
+20200829_09:57:48.713	Info		Cannot setup AcqFifo for jobID 4 no supported cam found at IP address 192.168.24.101
+20200829_09:57:48.713	Alarm	像机5的IP地址不是192.168.25.101
+20200829_09:57:48.713	Info		Cannot setup AcqFifo for jobID 5 no supported cam found at IP address 192.168.25.101
+20200829_09:57:48.750	Info	No file found for Calibration_1 so nothing was loaded.
+20200829_09:57:48.755	Info	No file found for Calibration_2 so nothing was loaded.
+20200829_09:57:48.755	Info	No file found for Calibration_3 so nothing was loaded.
+20200829_09:57:48.759	Info	No file found for Calibration_4 so nothing was loaded.
+20200829_09:57:48.762	Info	No file found for Calibration_5 so nothing was loaded.
+20200829_09:57:48.766	Info	No file found for Calibration_6 so nothing was loaded.
+20200829_09:57:48.771	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_09:57:48.771	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_09:57:48.771	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_09:57:48.771	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_09:57:48.771	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_09:57:48.771	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_09:57:49.720	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_3.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_09:57:49.728	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_2.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_09:57:49.728	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_1.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_09:57:49.788	Info	System checksum calculation complete!
+20200829_09:57:49.788	Info	Framework Version: 3.3.0.6
+20200829_09:57:49.788	Info	Framework Checksum: 84eeefa9f63e4956187c7cdb43f7f0d6
+20200829_09:57:49.788	Info	Machine Assembly Type: Ripcord
+20200829_09:57:49.788	Info	Machine Assembly Version: 1.1.0.1
+20200829_09:57:49.788	Info	Machine Assembly Checksum: 95e4cf4301373872379d681db892ffe2
+20200829_09:57:49.788	Info	Utility Version: 3.3.0.6
+20200829_09:57:49.788	Info	Utility Checksum: 5367b48789cc60839d2583f2b9deba3e
+20200829_09:57:49.788	Info	Configuration Checksum: 597dbbb008eb7b50678c22cfd163c1d2
+20200829_09:57:49.788	Info	Configuration Checksum: 3877d2480d11ba2ce650821a285c4e37
+20200829_09:57:49.788	Info	Calibration_1.vpp Checksum: 00
+20200829_09:57:49.788	Info	Calibration_2.vpp Checksum: 00
+20200829_09:57:49.788	Info	Calibration_3.vpp Checksum: 00
+20200829_09:57:49.788	Info	Calibration_4.vpp Checksum: 00
+20200829_09:57:49.788	Info	Calibration_5.vpp Checksum: 00
+20200829_09:57:49.788	Info	Calibration_6.vpp Checksum: 00
+20200829_09:57:49.788	Info	Inspection_3.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_09:57:49.788	Info	Inspection_1.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_09:57:49.788	Info	Inspection_2.vpp Checksum: 18da77c219308ac7ec74ca145ec88ef2
+20200829_09:57:49.788	Info	Master Setup Checksum: 82e6aa8956b1d6b6f5fc80016a2ab3dd
+20200829_09:57:49.844	Info	正在寻找插件 ...
+20200829_09:57:49.844	Info	正在Plugins\LightControllerFallback.dll程序中寻找插件类型 ...
+20200829_09:57:49.849	Info	已加载光源控制器，型号 Cog_BZ_LC_24_A, v1.0.0.0
+20200829_09:57:49.849	Info	已加载光源控制器，型号 Cog_BZ_LH_LC_24_A, v1.0.0.0
+20200829_09:57:49.849	Info	已加载光源控制器，型号 Cog_OPT_DC4_24F, v1.0.0.0
+20200829_09:57:49.849	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16, v1.0.0.0
+20200829_09:57:49.850	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4, v1.0.0.0
+20200829_09:57:49.850	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16_Serial, v1.0.0.0
+20200829_09:57:49.850	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4_Serial, v1.0.0.0
+20200829_09:57:49.850	Info	插件加载完毕
+20200829_09:57:49.853	Info	Light controller 1 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_09:57:49.855	Info	Light controller 2 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_09:57:49.861	Info	Light controller 3 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_09:57:52.478	Info	系统上线.
+20200829_09:58:25.504	Info	Changed user permissions from Operator to Administrator
+20200829_10:22:27.185	Info	Launched Cognex AssemblyPlus v. 3.3.1.1 (for 9.5 SR2 64 bit)
+20200829_10:22:27.813	Info	Loaded machine assembly for Ripcord
+20200829_10:22:31.396	Alarm	像机1的IP地址不是192.168.21.101
+20200829_10:22:31.399	Info		Cannot setup AcqFifo for jobID 1 no supported cam found at IP address 192.168.21.101
+20200829_10:22:31.416	Alarm	像机2的IP地址不是192.168.22.101
+20200829_10:22:31.416	Info		Cannot setup AcqFifo for jobID 2 no supported cam found at IP address 192.168.22.101
+20200829_10:22:31.416	Alarm	像机3的IP地址不是192.168.23.101
+20200829_10:22:31.416	Info		Cannot setup AcqFifo for jobID 3 no supported cam found at IP address 192.168.23.101
+20200829_10:22:31.416	Alarm	像机4的IP地址不是192.168.24.101
+20200829_10:22:31.416	Info		Cannot setup AcqFifo for jobID 4 no supported cam found at IP address 192.168.24.101
+20200829_10:22:31.416	Alarm	像机5的IP地址不是192.168.25.101
+20200829_10:22:31.416	Info		Cannot setup AcqFifo for jobID 5 no supported cam found at IP address 192.168.25.101
+20200829_10:22:31.625	Info	No file found for Calibration_1 so nothing was loaded.
+20200829_10:22:31.625	Info	No file found for Calibration_6 so nothing was loaded.
+20200829_10:22:31.626	Info	No file found for Calibration_3 so nothing was loaded.
+20200829_10:22:31.628	Info	No file found for Calibration_4 so nothing was loaded.
+20200829_10:22:31.628	Info	No file found for Calibration_5 so nothing was loaded.
+20200829_10:22:31.630	Info	No file found for Calibration_2 so nothing was loaded.
+20200829_10:22:31.664	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:22:31.664	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:22:31.664	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:22:31.664	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:22:31.664	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:22:31.664	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:22:33.594	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_2.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:22:33.604	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_3.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:22:33.605	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_1.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:22:33.660	Info	System checksum calculation complete!
+20200829_10:22:33.660	Info	Framework Version: 3.3.0.6
+20200829_10:22:33.660	Info	Framework Checksum: 84eeefa9f63e4956187c7cdb43f7f0d6
+20200829_10:22:33.660	Info	Machine Assembly Type: Ripcord
+20200829_10:22:33.660	Info	Machine Assembly Version: 1.1.0.1
+20200829_10:22:33.660	Info	Machine Assembly Checksum: 95e4cf4301373872379d681db892ffe2
+20200829_10:22:33.660	Info	Utility Version: 3.3.0.6
+20200829_10:22:33.660	Info	Utility Checksum: 5367b48789cc60839d2583f2b9deba3e
+20200829_10:22:33.660	Info	Configuration Checksum: 597dbbb008eb7b50678c22cfd163c1d2
+20200829_10:22:33.660	Info	Configuration Checksum: 3877d2480d11ba2ce650821a285c4e37
+20200829_10:22:33.660	Info	Calibration_1.vpp Checksum: 00
+20200829_10:22:33.660	Info	Calibration_6.vpp Checksum: 00
+20200829_10:22:33.660	Info	Calibration_3.vpp Checksum: 00
+20200829_10:22:33.660	Info	Calibration_4.vpp Checksum: 00
+20200829_10:22:33.660	Info	Calibration_5.vpp Checksum: 00
+20200829_10:22:33.660	Info	Calibration_2.vpp Checksum: 00
+20200829_10:22:33.660	Info	Inspection_1.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_10:22:33.660	Info	Inspection_3.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_10:22:33.660	Info	Inspection_2.vpp Checksum: 18da77c219308ac7ec74ca145ec88ef2
+20200829_10:22:33.660	Info	Master Setup Checksum: 82e6aa8956b1d6b6f5fc80016a2ab3dd
+20200829_10:22:33.759	Info	正在寻找插件 ...
+20200829_10:22:33.759	Info	正在Plugins\LightControllerFallback.dll程序中寻找插件类型 ...
+20200829_10:22:33.839	Info	已加载光源控制器，型号 Cog_BZ_LC_24_A, v1.0.0.0
+20200829_10:22:33.839	Info	已加载光源控制器，型号 Cog_BZ_LH_LC_24_A, v1.0.0.0
+20200829_10:22:33.839	Info	已加载光源控制器，型号 Cog_OPT_DC4_24F, v1.0.0.0
+20200829_10:22:33.839	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16, v1.0.0.0
+20200829_10:22:33.839	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4, v1.0.0.0
+20200829_10:22:33.839	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16_Serial, v1.0.0.0
+20200829_10:22:33.839	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4_Serial, v1.0.0.0
+20200829_10:22:33.839	Info	插件加载完毕
+20200829_10:22:33.847	Info	Light controller 1 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:22:33.851	Info	Light controller 2 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:22:33.857	Info	Light controller 3 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:22:36.482	Info	系统上线.
+20200829_10:23:12.602	Info	Changed user permissions from Operator to Administrator
+20200829_10:26:59.694	Info	Launched Cognex AssemblyPlus v. 3.3.1.1 (for 9.5 SR2 64 bit)
+20200829_10:27:00.095	Info	Loaded machine assembly for Ripcord
+20200829_10:27:02.473	Alarm	像机1的IP地址不是192.168.21.101
+20200829_10:27:02.476	Info		Cannot setup AcqFifo for jobID 1 no supported cam found at IP address 192.168.21.101
+20200829_10:27:02.492	Alarm	像机2的IP地址不是192.168.22.101
+20200829_10:27:02.492	Info		Cannot setup AcqFifo for jobID 2 no supported cam found at IP address 192.168.22.101
+20200829_10:27:02.492	Alarm	像机3的IP地址不是192.168.23.101
+20200829_10:27:02.492	Info		Cannot setup AcqFifo for jobID 3 no supported cam found at IP address 192.168.23.101
+20200829_10:27:02.492	Alarm	像机4的IP地址不是192.168.24.101
+20200829_10:27:02.492	Info		Cannot setup AcqFifo for jobID 4 no supported cam found at IP address 192.168.24.101
+20200829_10:27:02.492	Alarm	像机5的IP地址不是192.168.25.101
+20200829_10:27:02.492	Info		Cannot setup AcqFifo for jobID 5 no supported cam found at IP address 192.168.25.101
+20200829_10:27:02.545	Info	No file found for Calibration_1 so nothing was loaded.
+20200829_10:27:02.547	Info	No file found for Calibration_4 so nothing was loaded.
+20200829_10:27:02.547	Info	No file found for Calibration_2 so nothing was loaded.
+20200829_10:27:02.550	Info	No file found for Calibration_3 so nothing was loaded.
+20200829_10:27:02.558	Info	No file found for Calibration_5 so nothing was loaded.
+20200829_10:27:02.561	Info	No file found for Calibration_6 so nothing was loaded.
+20200829_10:27:02.569	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:27:02.569	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:27:02.569	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:27:02.569	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:27:02.569	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:27:02.569	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:27:03.590	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_2.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:27:03.592	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_3.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:27:03.594	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_1.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:27:03.655	Info	System checksum calculation complete!
+20200829_10:27:03.655	Info	Framework Version: 3.3.0.6
+20200829_10:27:03.655	Info	Framework Checksum: 84eeefa9f63e4956187c7cdb43f7f0d6
+20200829_10:27:03.655	Info	Machine Assembly Type: Ripcord
+20200829_10:27:03.655	Info	Machine Assembly Version: 1.1.0.1
+20200829_10:27:03.655	Info	Machine Assembly Checksum: 35a0e1439695187877230bc9f7a2555e
+20200829_10:27:03.655	Info	Utility Version: 3.3.0.6
+20200829_10:27:03.655	Info	Utility Checksum: 5367b48789cc60839d2583f2b9deba3e
+20200829_10:27:03.655	Info	Configuration Checksum: 597dbbb008eb7b50678c22cfd163c1d2
+20200829_10:27:03.655	Info	Configuration Checksum: 3877d2480d11ba2ce650821a285c4e37
+20200829_10:27:03.655	Info	Calibration_1.vpp Checksum: 00
+20200829_10:27:03.655	Info	Calibration_4.vpp Checksum: 00
+20200829_10:27:03.655	Info	Calibration_2.vpp Checksum: 00
+20200829_10:27:03.655	Info	Calibration_3.vpp Checksum: 00
+20200829_10:27:03.655	Info	Calibration_5.vpp Checksum: 00
+20200829_10:27:03.655	Info	Calibration_6.vpp Checksum: 00
+20200829_10:27:03.655	Info	Inspection_2.vpp Checksum: 18da77c219308ac7ec74ca145ec88ef2
+20200829_10:27:03.655	Info	Inspection_3.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_10:27:03.655	Info	Inspection_1.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_10:27:03.655	Info	Master Setup Checksum: 3e5a58a811ae019e4fbe64d49a166485
+20200829_10:27:03.707	Info	正在寻找插件 ...
+20200829_10:27:03.707	Info	正在Plugins\LightControllerFallback.dll程序中寻找插件类型 ...
+20200829_10:27:03.712	Info	已加载光源控制器，型号 Cog_BZ_LC_24_A, v1.0.0.0
+20200829_10:27:03.712	Info	已加载光源控制器，型号 Cog_BZ_LH_LC_24_A, v1.0.0.0
+20200829_10:27:03.712	Info	已加载光源控制器，型号 Cog_OPT_DC4_24F, v1.0.0.0
+20200829_10:27:03.712	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16, v1.0.0.0
+20200829_10:27:03.712	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4, v1.0.0.0
+20200829_10:27:03.712	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16_Serial, v1.0.0.0
+20200829_10:27:03.712	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4_Serial, v1.0.0.0
+20200829_10:27:03.712	Info	插件加载完毕
+20200829_10:27:03.716	Info	Light controller 1 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:27:03.718	Info	Light controller 2 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:27:03.720	Info	Light controller 3 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:27:06.368	Info	系统上线.
+20200829_10:27:10.942	Info	Changed user permissions from Operator to Administrator
+20200829_10:28:22.306	Info	Launched Cognex AssemblyPlus v. 3.3.1.1 (for 9.5 SR2 64 bit)
+20200829_10:28:22.799	Info	Loaded machine assembly for Ripcord
+20200829_10:28:25.220	Alarm	像机1的IP地址不是192.168.21.101
+20200829_10:28:25.221	Info		Cannot setup AcqFifo for jobID 1 no supported cam found at IP address 192.168.21.101
+20200829_10:28:25.228	Alarm	像机2的IP地址不是192.168.22.101
+20200829_10:28:25.228	Info		Cannot setup AcqFifo for jobID 2 no supported cam found at IP address 192.168.22.101
+20200829_10:28:25.228	Alarm	像机3的IP地址不是192.168.23.101
+20200829_10:28:25.228	Info		Cannot setup AcqFifo for jobID 3 no supported cam found at IP address 192.168.23.101
+20200829_10:28:25.228	Alarm	像机4的IP地址不是192.168.24.101
+20200829_10:28:25.228	Info		Cannot setup AcqFifo for jobID 4 no supported cam found at IP address 192.168.24.101
+20200829_10:28:25.228	Alarm	像机5的IP地址不是192.168.25.101
+20200829_10:28:25.228	Info		Cannot setup AcqFifo for jobID 5 no supported cam found at IP address 192.168.25.101
+20200829_10:28:25.262	Info	No file found for Calibration_1 so nothing was loaded.
+20200829_10:28:25.263	Info	No file found for Calibration_3 so nothing was loaded.
+20200829_10:28:25.264	Info	No file found for Calibration_4 so nothing was loaded.
+20200829_10:28:25.265	Info	No file found for Calibration_2 so nothing was loaded.
+20200829_10:28:25.266	Info	No file found for Calibration_5 so nothing was loaded.
+20200829_10:28:25.267	Info	No file found for Calibration_6 so nothing was loaded.
+20200829_10:28:25.278	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:28:25.278	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:28:25.278	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:28:25.278	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:28:25.278	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:28:25.278	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:28:26.082	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_1.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:28:26.087	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_2.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:28:26.087	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_3.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:28:26.148	Info	System checksum calculation complete!
+20200829_10:28:26.148	Info	Framework Version: 3.3.0.6
+20200829_10:28:26.148	Info	Framework Checksum: 84eeefa9f63e4956187c7cdb43f7f0d6
+20200829_10:28:26.148	Info	Machine Assembly Type: Ripcord
+20200829_10:28:26.148	Info	Machine Assembly Version: 1.1.0.1
+20200829_10:28:26.148	Info	Machine Assembly Checksum: 35a0e1439695187877230bc9f7a2555e
+20200829_10:28:26.148	Info	Utility Version: 3.3.0.6
+20200829_10:28:26.148	Info	Utility Checksum: 5367b48789cc60839d2583f2b9deba3e
+20200829_10:28:26.148	Info	Configuration Checksum: 597dbbb008eb7b50678c22cfd163c1d2
+20200829_10:28:26.148	Info	Configuration Checksum: 3877d2480d11ba2ce650821a285c4e37
+20200829_10:28:26.148	Info	Calibration_1.vpp Checksum: 00
+20200829_10:28:26.148	Info	Calibration_3.vpp Checksum: 00
+20200829_10:28:26.148	Info	Calibration_4.vpp Checksum: 00
+20200829_10:28:26.148	Info	Calibration_2.vpp Checksum: 00
+20200829_10:28:26.148	Info	Calibration_5.vpp Checksum: 00
+20200829_10:28:26.148	Info	Calibration_6.vpp Checksum: 00
+20200829_10:28:26.148	Info	Inspection_2.vpp Checksum: 18da77c219308ac7ec74ca145ec88ef2
+20200829_10:28:26.148	Info	Inspection_3.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_10:28:26.148	Info	Inspection_1.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_10:28:26.148	Info	Master Setup Checksum: 3e5a58a811ae019e4fbe64d49a166485
+20200829_10:28:26.216	Info	正在寻找插件 ...
+20200829_10:28:26.216	Info	正在Plugins\LightControllerFallback.dll程序中寻找插件类型 ...
+20200829_10:28:26.222	Info	已加载光源控制器，型号 Cog_BZ_LC_24_A, v1.0.0.0
+20200829_10:28:26.222	Info	已加载光源控制器，型号 Cog_BZ_LH_LC_24_A, v1.0.0.0
+20200829_10:28:26.222	Info	已加载光源控制器，型号 Cog_OPT_DC4_24F, v1.0.0.0
+20200829_10:28:26.222	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16, v1.0.0.0
+20200829_10:28:26.222	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4, v1.0.0.0
+20200829_10:28:26.222	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16_Serial, v1.0.0.0
+20200829_10:28:26.222	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4_Serial, v1.0.0.0
+20200829_10:28:26.222	Info	插件加载完毕
+20200829_10:28:26.226	Info	Light controller 1 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:28:26.227	Info	Light controller 2 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:28:26.231	Info	Light controller 3 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:28:28.871	Info	系统上线.
+20200829_10:28:31.349	Info	Changed user permissions from Operator to Administrator
+20200829_10:30:53.110	Info	Launched Cognex AssemblyPlus v. 3.3.1.1 (for 9.5 SR2 64 bit)
+20200829_10:30:53.563	Info	Loaded machine assembly for Ripcord
+20200829_10:30:55.965	Alarm	像机1的IP地址不是192.168.21.101
+20200829_10:30:55.968	Info		Cannot setup AcqFifo for jobID 1 no supported cam found at IP address 192.168.21.101
+20200829_10:30:55.986	Alarm	像机2的IP地址不是192.168.22.101
+20200829_10:30:55.986	Info		Cannot setup AcqFifo for jobID 2 no supported cam found at IP address 192.168.22.101
+20200829_10:30:55.986	Alarm	像机3的IP地址不是192.168.23.101
+20200829_10:30:55.986	Info		Cannot setup AcqFifo for jobID 3 no supported cam found at IP address 192.168.23.101
+20200829_10:30:55.986	Alarm	像机4的IP地址不是192.168.24.101
+20200829_10:30:55.986	Info		Cannot setup AcqFifo for jobID 4 no supported cam found at IP address 192.168.24.101
+20200829_10:30:55.986	Alarm	像机5的IP地址不是192.168.25.101
+20200829_10:30:55.986	Info		Cannot setup AcqFifo for jobID 5 no supported cam found at IP address 192.168.25.101
+20200829_10:30:56.042	Info	No file found for Calibration_1 so nothing was loaded.
+20200829_10:30:56.043	Info	No file found for Calibration_3 so nothing was loaded.
+20200829_10:30:56.045	Info	No file found for Calibration_2 so nothing was loaded.
+20200829_10:30:56.048	Info	No file found for Calibration_4 so nothing was loaded.
+20200829_10:30:56.049	Info	No file found for Calibration_5 so nothing was loaded.
+20200829_10:30:56.053	Info	No file found for Calibration_6 so nothing was loaded.
+20200829_10:30:56.058	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:30:56.058	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:30:56.058	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:30:56.058	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:30:56.058	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:30:56.058	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:30:56.947	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_3.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:30:56.954	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_1.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:30:56.962	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_2.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:30:57.026	Info	System checksum calculation complete!
+20200829_10:30:57.026	Info	Framework Version: 3.3.0.6
+20200829_10:30:57.026	Info	Framework Checksum: 84eeefa9f63e4956187c7cdb43f7f0d6
+20200829_10:30:57.026	Info	Machine Assembly Type: Ripcord
+20200829_10:30:57.026	Info	Machine Assembly Version: 1.1.0.1
+20200829_10:30:57.026	Info	Machine Assembly Checksum: 35a0e1439695187877230bc9f7a2555e
+20200829_10:30:57.026	Info	Utility Version: 3.3.0.6
+20200829_10:30:57.026	Info	Utility Checksum: 5367b48789cc60839d2583f2b9deba3e
+20200829_10:30:57.026	Info	Configuration Checksum: 597dbbb008eb7b50678c22cfd163c1d2
+20200829_10:30:57.026	Info	Configuration Checksum: 3877d2480d11ba2ce650821a285c4e37
+20200829_10:30:57.026	Info	Calibration_1.vpp Checksum: 00
+20200829_10:30:57.026	Info	Calibration_3.vpp Checksum: 00
+20200829_10:30:57.026	Info	Calibration_2.vpp Checksum: 00
+20200829_10:30:57.026	Info	Calibration_4.vpp Checksum: 00
+20200829_10:30:57.026	Info	Calibration_5.vpp Checksum: 00
+20200829_10:30:57.026	Info	Calibration_6.vpp Checksum: 00
+20200829_10:30:57.026	Info	Inspection_1.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_10:30:57.026	Info	Inspection_3.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_10:30:57.026	Info	Inspection_2.vpp Checksum: 18da77c219308ac7ec74ca145ec88ef2
+20200829_10:30:57.026	Info	Master Setup Checksum: bcd4c8a26acd98d160510e6f9b138784
+20200829_10:30:57.079	Info	正在寻找插件 ...
+20200829_10:30:57.079	Info	正在Plugins\LightControllerFallback.dll程序中寻找插件类型 ...
+20200829_10:30:57.084	Info	已加载光源控制器，型号 Cog_BZ_LC_24_A, v1.0.0.0
+20200829_10:30:57.084	Info	已加载光源控制器，型号 Cog_BZ_LH_LC_24_A, v1.0.0.0
+20200829_10:30:57.084	Info	已加载光源控制器，型号 Cog_OPT_DC4_24F, v1.0.0.0
+20200829_10:30:57.084	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16, v1.0.0.0
+20200829_10:30:57.084	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4, v1.0.0.0
+20200829_10:30:57.084	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16_Serial, v1.0.0.0
+20200829_10:30:57.084	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4_Serial, v1.0.0.0
+20200829_10:30:57.084	Info	插件加载完毕
+20200829_10:30:57.088	Info	Light controller 1 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:30:57.090	Info	Light controller 2 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:30:57.093	Info	Light controller 3 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:30:59.732	Info	系统上线.
+20200829_10:32:34.513	Info	Changed user permissions from Operator to Administrator
+20200829_10:33:26.792	Info	Launched Cognex AssemblyPlus v. 3.3.1.1 (for 9.5 SR2 64 bit)
+20200829_10:33:27.113	Info	Loaded machine assembly for Ripcord
+20200829_10:33:29.465	Alarm	像机1的IP地址不是192.168.21.101
+20200829_10:33:29.466	Info		Cannot setup AcqFifo for jobID 1 no supported cam found at IP address 192.168.21.101
+20200829_10:33:29.472	Alarm	像机2的IP地址不是192.168.22.101
+20200829_10:33:29.472	Info		Cannot setup AcqFifo for jobID 2 no supported cam found at IP address 192.168.22.101
+20200829_10:33:29.472	Alarm	像机3的IP地址不是192.168.23.101
+20200829_10:33:29.472	Info		Cannot setup AcqFifo for jobID 3 no supported cam found at IP address 192.168.23.101
+20200829_10:33:29.472	Alarm	像机4的IP地址不是192.168.24.101
+20200829_10:33:29.472	Info		Cannot setup AcqFifo for jobID 4 no supported cam found at IP address 192.168.24.101
+20200829_10:33:29.472	Alarm	像机5的IP地址不是192.168.25.101
+20200829_10:33:29.472	Info		Cannot setup AcqFifo for jobID 5 no supported cam found at IP address 192.168.25.101
+20200829_10:33:29.501	Info	No file found for Calibration_1 so nothing was loaded.
+20200829_10:33:29.502	Info	No file found for Calibration_2 so nothing was loaded.
+20200829_10:33:29.503	Info	No file found for Calibration_3 so nothing was loaded.
+20200829_10:33:29.504	Info	No file found for Calibration_4 so nothing was loaded.
+20200829_10:33:29.507	Info	No file found for Calibration_6 so nothing was loaded.
+20200829_10:33:29.514	Info	No file found for Calibration_5 so nothing was loaded.
+20200829_10:33:29.518	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:33:29.518	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:33:29.518	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:33:29.518	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:33:29.518	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:33:29.518	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:33:30.403	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_3.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:33:30.403	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_1.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:33:30.403	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_2.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:33:30.468	Info	System checksum calculation complete!
+20200829_10:33:30.468	Info	Framework Version: 3.3.0.6
+20200829_10:33:30.468	Info	Framework Checksum: 84eeefa9f63e4956187c7cdb43f7f0d6
+20200829_10:33:30.468	Info	Machine Assembly Type: Ripcord
+20200829_10:33:30.468	Info	Machine Assembly Version: 1.1.0.1
+20200829_10:33:30.468	Info	Machine Assembly Checksum: 35a0e1439695187877230bc9f7a2555e
+20200829_10:33:30.468	Info	Utility Version: 3.3.0.6
+20200829_10:33:30.468	Info	Utility Checksum: 5367b48789cc60839d2583f2b9deba3e
+20200829_10:33:30.468	Info	Configuration Checksum: 597dbbb008eb7b50678c22cfd163c1d2
+20200829_10:33:30.468	Info	Configuration Checksum: 3877d2480d11ba2ce650821a285c4e37
+20200829_10:33:30.468	Info	Calibration_1.vpp Checksum: 00
+20200829_10:33:30.468	Info	Calibration_2.vpp Checksum: 00
+20200829_10:33:30.468	Info	Calibration_3.vpp Checksum: 00
+20200829_10:33:30.468	Info	Calibration_4.vpp Checksum: 00
+20200829_10:33:30.468	Info	Calibration_6.vpp Checksum: 00
+20200829_10:33:30.468	Info	Calibration_5.vpp Checksum: 00
+20200829_10:33:30.468	Info	Inspection_2.vpp Checksum: 18da77c219308ac7ec74ca145ec88ef2
+20200829_10:33:30.468	Info	Inspection_1.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_10:33:30.468	Info	Inspection_3.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_10:33:30.468	Info	Master Setup Checksum: 3e5a58a811ae019e4fbe64d49a166485
+20200829_10:33:30.517	Info	正在寻找插件 ...
+20200829_10:33:30.517	Info	正在Plugins\LightControllerFallback.dll程序中寻找插件类型 ...
+20200829_10:33:30.524	Info	已加载光源控制器，型号 Cog_BZ_LC_24_A, v1.0.0.0
+20200829_10:33:30.524	Info	已加载光源控制器，型号 Cog_BZ_LH_LC_24_A, v1.0.0.0
+20200829_10:33:30.524	Info	已加载光源控制器，型号 Cog_OPT_DC4_24F, v1.0.0.0
+20200829_10:33:30.524	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16, v1.0.0.0
+20200829_10:33:30.524	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4, v1.0.0.0
+20200829_10:33:30.524	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16_Serial, v1.0.0.0
+20200829_10:33:30.524	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4_Serial, v1.0.0.0
+20200829_10:33:30.524	Info	插件加载完毕
+20200829_10:33:30.527	Info	Light controller 1 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:33:30.530	Info	Light controller 2 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:33:30.536	Info	Light controller 3 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:33:33.152	Info	系统上线.
+20200829_10:35:24.425	Info	Changed user permissions from Operator to Administrator
+20200829_10:36:00.237	Info	Launched Cognex AssemblyPlus v. 3.3.1.1 (for 9.5 SR2 64 bit)
+20200829_10:36:00.776	Info	Loaded machine assembly for Ripcord
+20200829_10:36:03.191	Alarm	像机1的IP地址不是192.168.21.101
+20200829_10:36:03.194	Info		Cannot setup AcqFifo for jobID 1 no supported cam found at IP address 192.168.21.101
+20200829_10:36:03.211	Alarm	像机2的IP地址不是192.168.22.101
+20200829_10:36:03.211	Info		Cannot setup AcqFifo for jobID 2 no supported cam found at IP address 192.168.22.101
+20200829_10:36:03.212	Alarm	像机3的IP地址不是192.168.23.101
+20200829_10:36:03.212	Info		Cannot setup AcqFifo for jobID 3 no supported cam found at IP address 192.168.23.101
+20200829_10:36:03.212	Alarm	像机4的IP地址不是192.168.24.101
+20200829_10:36:03.212	Info		Cannot setup AcqFifo for jobID 4 no supported cam found at IP address 192.168.24.101
+20200829_10:36:03.213	Alarm	像机5的IP地址不是192.168.25.101
+20200829_10:36:03.213	Info		Cannot setup AcqFifo for jobID 5 no supported cam found at IP address 192.168.25.101
+20200829_10:36:03.250	Info	No file found for Calibration_1 so nothing was loaded.
+20200829_10:36:03.250	Info	No file found for Calibration_3 so nothing was loaded.
+20200829_10:36:03.254	Info	No file found for Calibration_6 so nothing was loaded.
+20200829_10:36:03.256	Info	No file found for Calibration_2 so nothing was loaded.
+20200829_10:36:03.261	Info	No file found for Calibration_4 so nothing was loaded.
+20200829_10:36:03.263	Info	No file found for Calibration_5 so nothing was loaded.
+20200829_10:36:03.269	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:36:03.269	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:36:03.269	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:36:03.269	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:36:03.269	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:36:03.269	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:36:04.221	Info	Assigned experimental toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_1.vpp to job 1.
+20200829_10:36:04.223	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_3.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:36:04.223	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_2.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:36:04.282	Info	System checksum calculation complete!
+20200829_10:36:04.282	Info	Framework Version: 3.3.0.6
+20200829_10:36:04.282	Info	Framework Checksum: 84eeefa9f63e4956187c7cdb43f7f0d6
+20200829_10:36:04.282	Info	Machine Assembly Type: Ripcord
+20200829_10:36:04.282	Info	Machine Assembly Version: 1.1.0.1
+20200829_10:36:04.282	Info	Machine Assembly Checksum: 35a0e1439695187877230bc9f7a2555e
+20200829_10:36:04.282	Info	Utility Version: 3.3.0.6
+20200829_10:36:04.282	Info	Utility Checksum: 5367b48789cc60839d2583f2b9deba3e
+20200829_10:36:04.282	Info	Configuration Checksum: 597dbbb008eb7b50678c22cfd163c1d2
+20200829_10:36:04.282	Info	Configuration Checksum: 3877d2480d11ba2ce650821a285c4e37
+20200829_10:36:04.282	Info	Calibration_1.vpp Checksum: 00
+20200829_10:36:04.282	Info	Calibration_3.vpp Checksum: 00
+20200829_10:36:04.282	Info	Calibration_6.vpp Checksum: 00
+20200829_10:36:04.282	Info	Calibration_2.vpp Checksum: 00
+20200829_10:36:04.282	Info	Calibration_4.vpp Checksum: 00
+20200829_10:36:04.282	Info	Calibration_5.vpp Checksum: 00
+20200829_10:36:04.282	Info	Inspection_3.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_10:36:04.282	Info	Inspection_1.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_10:36:04.282	Info	Inspection_2.vpp Checksum: 18da77c219308ac7ec74ca145ec88ef2
+20200829_10:36:04.282	Info	Master Setup Checksum: bcd4c8a26acd98d160510e6f9b138784
+20200829_10:36:04.334	Info	正在寻找插件 ...
+20200829_10:36:04.334	Info	正在Plugins\LightControllerFallback.dll程序中寻找插件类型 ...
+20200829_10:36:04.339	Info	已加载光源控制器，型号 Cog_BZ_LC_24_A, v1.0.0.0
+20200829_10:36:04.339	Info	已加载光源控制器，型号 Cog_BZ_LH_LC_24_A, v1.0.0.0
+20200829_10:36:04.339	Info	已加载光源控制器，型号 Cog_OPT_DC4_24F, v1.0.0.0
+20200829_10:36:04.339	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16, v1.0.0.0
+20200829_10:36:04.339	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4, v1.0.0.0
+20200829_10:36:04.339	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16_Serial, v1.0.0.0
+20200829_10:36:04.339	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4_Serial, v1.0.0.0
+20200829_10:36:04.339	Info	插件加载完毕
+20200829_10:36:04.343	Info	Light controller 1 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:36:04.345	Info	Light controller 2 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:36:04.348	Info	Light controller 3 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:36:06.997	Info	系统上线.
+20200829_10:37:00.530	Info	Changed user permissions from Operator to Administrator
+20200829_10:37:53.452	Info	Launched Cognex AssemblyPlus v. 3.3.1.1 (for 9.5 SR2 64 bit)
+20200829_10:37:53.890	Info	Loaded machine assembly for Ripcord
+20200829_10:37:56.406	Alarm	像机1的IP地址不是192.168.21.101
+20200829_10:38:24.667	Info	Launched Cognex AssemblyPlus v. 3.3.1.1 (for 9.5 SR2 64 bit)
+20200829_10:38:25.044	Info	Loaded machine assembly for Ripcord
+20200829_10:38:27.473	Alarm	像机1的IP地址不是192.168.21.101
+20200829_10:38:27.475	Info		Cannot setup AcqFifo for jobID 1 no supported cam found at IP address 192.168.21.101
+20200829_10:38:27.485	Alarm	像机2的IP地址不是192.168.22.101
+20200829_10:38:27.485	Info		Cannot setup AcqFifo for jobID 2 no supported cam found at IP address 192.168.22.101
+20200829_10:38:27.485	Alarm	像机3的IP地址不是192.168.23.101
+20200829_10:38:27.485	Info		Cannot setup AcqFifo for jobID 3 no supported cam found at IP address 192.168.23.101
+20200829_10:38:27.485	Alarm	像机4的IP地址不是192.168.24.101
+20200829_10:38:27.485	Info		Cannot setup AcqFifo for jobID 4 no supported cam found at IP address 192.168.24.101
+20200829_10:38:27.485	Alarm	像机5的IP地址不是192.168.25.101
+20200829_10:38:27.485	Info		Cannot setup AcqFifo for jobID 5 no supported cam found at IP address 192.168.25.101
+20200829_10:38:27.540	Info	No file found for Calibration_1 so nothing was loaded.
+20200829_10:38:27.541	Info	No file found for Calibration_2 so nothing was loaded.
+20200829_10:38:27.541	Info	No file found for Calibration_6 so nothing was loaded.
+20200829_10:38:27.542	Info	No file found for Calibration_3 so nothing was loaded.
+20200829_10:38:27.544	Info	No file found for Calibration_4 so nothing was loaded.
+20200829_10:38:27.547	Info	No file found for Calibration_5 so nothing was loaded.
+20200829_10:38:27.555	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:38:27.555	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:38:27.555	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:38:27.555	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:38:27.555	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:38:27.555	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:38:28.443	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_3.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:38:28.451	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_2.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:38:28.453	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_1.vpp because an error occured. Details: Collection was modified; enumeration operation may not execute.
+20200829_10:38:28.511	Info	System checksum calculation complete!
+20200829_10:38:28.511	Info	Framework Version: 3.3.0.6
+20200829_10:38:28.511	Info	Framework Checksum: 84eeefa9f63e4956187c7cdb43f7f0d6
+20200829_10:38:28.511	Info	Machine Assembly Type: Ripcord
+20200829_10:38:28.511	Info	Machine Assembly Version: 1.1.0.1
+20200829_10:38:28.511	Info	Machine Assembly Checksum: 35a0e1439695187877230bc9f7a2555e
+20200829_10:38:28.511	Info	Utility Version: 3.3.0.6
+20200829_10:38:28.511	Info	Utility Checksum: 5367b48789cc60839d2583f2b9deba3e
+20200829_10:38:28.511	Info	Configuration Checksum: 597dbbb008eb7b50678c22cfd163c1d2
+20200829_10:38:28.511	Info	Configuration Checksum: 3877d2480d11ba2ce650821a285c4e37
+20200829_10:38:28.511	Info	Calibration_1.vpp Checksum: 00
+20200829_10:38:28.511	Info	Calibration_2.vpp Checksum: 00
+20200829_10:38:28.511	Info	Calibration_6.vpp Checksum: 00
+20200829_10:38:28.511	Info	Calibration_3.vpp Checksum: 00
+20200829_10:38:28.511	Info	Calibration_4.vpp Checksum: 00
+20200829_10:38:28.511	Info	Calibration_5.vpp Checksum: 00
+20200829_10:38:28.511	Info	Inspection_1.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_10:38:28.511	Info	Inspection_3.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_10:38:28.511	Info	Inspection_2.vpp Checksum: 18da77c219308ac7ec74ca145ec88ef2
+20200829_10:38:28.511	Info	Master Setup Checksum: bcd4c8a26acd98d160510e6f9b138784
+20200829_10:38:28.573	Info	正在寻找插件 ...
+20200829_10:38:28.573	Info	正在Plugins\LightControllerFallback.dll程序中寻找插件类型 ...
+20200829_10:38:28.578	Info	已加载光源控制器，型号 Cog_BZ_LC_24_A, v1.0.0.0
+20200829_10:38:28.578	Info	已加载光源控制器，型号 Cog_BZ_LH_LC_24_A, v1.0.0.0
+20200829_10:38:28.578	Info	已加载光源控制器，型号 Cog_OPT_DC4_24F, v1.0.0.0
+20200829_10:38:28.578	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16, v1.0.0.0
+20200829_10:38:28.578	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4, v1.0.0.0
+20200829_10:38:28.578	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16_Serial, v1.0.0.0
+20200829_10:38:28.578	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4_Serial, v1.0.0.0
+20200829_10:38:28.578	Info	插件加载完毕
+20200829_10:38:28.582	Info	Light controller 1 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:38:28.587	Info	Light controller 2 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:38:28.587	Info	Light controller 3 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:38:31.232	Info	系统上线.
+20200829_10:38:34.965	Info	Changed user permissions from Operator to Administrator
+20200829_10:40:11.902	Info	Launched Cognex AssemblyPlus v. 3.3.1.1 (for 9.5 SR2 64 bit)
+20200829_10:40:12.307	Info	Loaded machine assembly for Ripcord
+20200829_10:40:14.760	Alarm	像机1的IP地址不是192.168.21.101
+20200829_10:40:14.761	Info		Cannot setup AcqFifo for jobID 1 no supported cam found at IP address 192.168.21.101
+20200829_10:40:14.765	Alarm	像机2的IP地址不是192.168.22.101
+20200829_10:40:14.765	Info		Cannot setup AcqFifo for jobID 2 no supported cam found at IP address 192.168.22.101
+20200829_10:40:14.765	Alarm	像机3的IP地址不是192.168.23.101
+20200829_10:40:14.765	Info		Cannot setup AcqFifo for jobID 3 no supported cam found at IP address 192.168.23.101
+20200829_10:40:14.765	Alarm	像机4的IP地址不是192.168.24.101
+20200829_10:40:14.765	Info		Cannot setup AcqFifo for jobID 4 no supported cam found at IP address 192.168.24.101
+20200829_10:40:14.765	Alarm	像机5的IP地址不是192.168.25.101
+20200829_10:40:14.765	Info		Cannot setup AcqFifo for jobID 5 no supported cam found at IP address 192.168.25.101
+20200829_10:40:14.792	Info	No file found for Calibration_1 so nothing was loaded.
+20200829_10:40:14.795	Info	No file found for Calibration_2 so nothing was loaded.
+20200829_10:40:14.796	Info	No file found for Calibration_3 so nothing was loaded.
+20200829_10:40:14.798	Info	No file found for Calibration_4 so nothing was loaded.
+20200829_10:40:14.801	Info	No file found for Calibration_5 so nothing was loaded.
+20200829_10:40:14.804	Info	No file found for Calibration_6 so nothing was loaded.
+20200829_10:40:14.810	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:40:14.810	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:40:14.810	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:40:14.810	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:40:14.810	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:40:14.810	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:40:15.781	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_3.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:40:15.789	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_1.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:40:15.798	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_2.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:40:15.857	Info	System checksum calculation complete!
+20200829_10:40:15.857	Info	Framework Version: 3.3.0.6
+20200829_10:40:15.857	Info	Framework Checksum: 84eeefa9f63e4956187c7cdb43f7f0d6
+20200829_10:40:15.857	Info	Machine Assembly Type: Ripcord
+20200829_10:40:15.857	Info	Machine Assembly Version: 1.1.0.1
+20200829_10:40:15.857	Info	Machine Assembly Checksum: 35a0e1439695187877230bc9f7a2555e
+20200829_10:40:15.857	Info	Utility Version: 3.3.0.6
+20200829_10:40:15.857	Info	Utility Checksum: 5367b48789cc60839d2583f2b9deba3e
+20200829_10:40:15.857	Info	Configuration Checksum: 597dbbb008eb7b50678c22cfd163c1d2
+20200829_10:40:15.857	Info	Configuration Checksum: 3877d2480d11ba2ce650821a285c4e37
+20200829_10:40:15.857	Info	Calibration_1.vpp Checksum: 00
+20200829_10:40:15.857	Info	Calibration_2.vpp Checksum: 00
+20200829_10:40:15.857	Info	Calibration_3.vpp Checksum: 00
+20200829_10:40:15.857	Info	Calibration_4.vpp Checksum: 00
+20200829_10:40:15.857	Info	Calibration_5.vpp Checksum: 00
+20200829_10:40:15.857	Info	Calibration_6.vpp Checksum: 00
+20200829_10:40:15.857	Info	Inspection_3.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_10:40:15.857	Info	Inspection_1.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_10:40:15.857	Info	Inspection_2.vpp Checksum: 18da77c219308ac7ec74ca145ec88ef2
+20200829_10:40:15.857	Info	Master Setup Checksum: bcd4c8a26acd98d160510e6f9b138784
+20200829_10:40:15.913	Info	正在寻找插件 ...
+20200829_10:40:15.913	Info	正在Plugins\LightControllerFallback.dll程序中寻找插件类型 ...
+20200829_10:40:15.919	Info	已加载光源控制器，型号 Cog_BZ_LC_24_A, v1.0.0.0
+20200829_10:40:15.919	Info	已加载光源控制器，型号 Cog_BZ_LH_LC_24_A, v1.0.0.0
+20200829_10:40:15.920	Info	已加载光源控制器，型号 Cog_OPT_DC4_24F, v1.0.0.0
+20200829_10:40:15.920	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16, v1.0.0.0
+20200829_10:40:15.920	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4, v1.0.0.0
+20200829_10:40:15.920	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16_Serial, v1.0.0.0
+20200829_10:40:15.920	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4_Serial, v1.0.0.0
+20200829_10:40:15.920	Info	插件加载完毕
+20200829_10:40:15.923	Info	Light controller 1 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:40:15.927	Info	Light controller 2 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:40:15.928	Info	Light controller 3 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:40:18.588	Info	系统上线.
+20200829_10:40:24.531	Info	Changed user permissions from Operator to Administrator
+20200829_10:41:02.488	Info	Launched Cognex AssemblyPlus v. 3.3.1.1 (for 9.5 SR2 64 bit)
+20200829_10:41:02.894	Info	Loaded machine assembly for Ripcord
+20200829_10:41:05.273	Alarm	像机1的IP地址不是192.168.21.101
+20200829_10:41:05.276	Info		Cannot setup AcqFifo for jobID 1 no supported cam found at IP address 192.168.21.101
+20200829_10:41:05.291	Alarm	像机2的IP地址不是192.168.22.101
+20200829_10:41:05.291	Info		Cannot setup AcqFifo for jobID 2 no supported cam found at IP address 192.168.22.101
+20200829_10:41:05.291	Alarm	像机3的IP地址不是192.168.23.101
+20200829_10:41:05.291	Info		Cannot setup AcqFifo for jobID 3 no supported cam found at IP address 192.168.23.101
+20200829_10:41:05.291	Alarm	像机4的IP地址不是192.168.24.101
+20200829_10:41:05.291	Info		Cannot setup AcqFifo for jobID 4 no supported cam found at IP address 192.168.24.101
+20200829_10:41:05.291	Alarm	像机5的IP地址不是192.168.25.101
+20200829_10:41:05.291	Info		Cannot setup AcqFifo for jobID 5 no supported cam found at IP address 192.168.25.101
+20200829_10:41:05.322	Info	No file found for Calibration_1 so nothing was loaded.
+20200829_10:41:05.327	Info	No file found for Calibration_3 so nothing was loaded.
+20200829_10:41:05.327	Info	No file found for Calibration_2 so nothing was loaded.
+20200829_10:41:05.330	Info	No file found for Calibration_4 so nothing was loaded.
+20200829_10:41:05.333	Info	No file found for Calibration_5 so nothing was loaded.
+20200829_10:41:05.336	Info	No file found for Calibration_6 so nothing was loaded.
+20200829_10:41:05.342	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:41:05.342	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:41:05.342	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:41:05.342	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:41:05.342	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:41:05.342	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:41:06.295	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_2.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:41:06.296	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_1.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:41:06.303	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_3.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:41:06.362	Info	System checksum calculation complete!
+20200829_10:41:06.362	Info	Framework Version: 3.3.0.6
+20200829_10:41:06.362	Info	Framework Checksum: 84eeefa9f63e4956187c7cdb43f7f0d6
+20200829_10:41:06.362	Info	Machine Assembly Type: Ripcord
+20200829_10:41:06.362	Info	Machine Assembly Version: 1.1.0.1
+20200829_10:41:06.362	Info	Machine Assembly Checksum: 35a0e1439695187877230bc9f7a2555e
+20200829_10:41:06.362	Info	Utility Version: 3.3.0.6
+20200829_10:41:06.362	Info	Utility Checksum: 5367b48789cc60839d2583f2b9deba3e
+20200829_10:41:06.362	Info	Configuration Checksum: 597dbbb008eb7b50678c22cfd163c1d2
+20200829_10:41:06.362	Info	Configuration Checksum: 3877d2480d11ba2ce650821a285c4e37
+20200829_10:41:06.362	Info	Calibration_1.vpp Checksum: 00
+20200829_10:41:06.362	Info	Calibration_3.vpp Checksum: 00
+20200829_10:41:06.362	Info	Calibration_2.vpp Checksum: 00
+20200829_10:41:06.362	Info	Calibration_4.vpp Checksum: 00
+20200829_10:41:06.362	Info	Calibration_5.vpp Checksum: 00
+20200829_10:41:06.362	Info	Calibration_6.vpp Checksum: 00
+20200829_10:41:06.362	Info	Inspection_3.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_10:41:06.362	Info	Inspection_2.vpp Checksum: 18da77c219308ac7ec74ca145ec88ef2
+20200829_10:41:06.362	Info	Inspection_1.vpp Checksum: fc9e2731b514eb32f15163841cf615e8
+20200829_10:41:06.362	Info	Master Setup Checksum: 6f7ed11a587f13281d7a90c2d4297df8
+20200829_10:41:06.414	Info	正在寻找插件 ...
+20200829_10:41:06.414	Info	正在Plugins\LightControllerFallback.dll程序中寻找插件类型 ...
+20200829_10:41:06.420	Info	已加载光源控制器，型号 Cog_BZ_LC_24_A, v1.0.0.0
+20200829_10:41:06.420	Info	已加载光源控制器，型号 Cog_BZ_LH_LC_24_A, v1.0.0.0
+20200829_10:41:06.420	Info	已加载光源控制器，型号 Cog_OPT_DC4_24F, v1.0.0.0
+20200829_10:41:06.420	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16, v1.0.0.0
+20200829_10:41:06.420	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4, v1.0.0.0
+20200829_10:41:06.420	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_16_Serial, v1.0.0.0
+20200829_10:41:06.420	Info	已加载光源控制器，型号 Cog_OPT_DPA1024E_4_Serial, v1.0.0.0
+20200829_10:41:06.420	Info	插件加载完毕
+20200829_10:41:06.428	Info	Light controller 1 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:41:06.432	Info	Light controller 2 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:41:06.435	Info	Light controller 3 of type, OPT_DPA1024E_4, could not be loaded. Falling back to type Cog_OPT_DPA1024E_4
+20200829_10:41:09.080	Info	系统上线.
+20200829_10:41:32.933	Info	Changed user permissions from Operator to Administrator
+20200829_10:43:31.853	Info	Using cal plate pitch 2 for autocal camera 1
+20200829_10:43:31.853	Info	Using distortion model OneParamRadial for autocal camera 1
+20200829_10:43:31.853	Info	Using motion model StaticPose for autocal camera 1
+20200829_10:43:31.853	Info	Using cal plate pitch 2 for autocal camera 2
+20200829_10:43:31.853	Info	Using distortion model OneParamRadial for autocal camera 2
+20200829_10:43:31.853	Info	Using motion model StaticPose for autocal camera 2
+20200829_10:43:31.853	Info	Using cal plate pitch 2 for autocal camera 3
+20200829_10:43:31.853	Info	Using distortion model OneParamRadial for autocal camera 3
+20200829_10:43:31.853	Info	Using motion model StaticPose for autocal camera 3
+20200829_10:43:31.854	Info	Using cal plate pitch 2 for autocal camera 4
+20200829_10:43:31.854	Info	Using distortion model OneParamRadial for autocal camera 4
+20200829_10:43:31.854	Info	Using motion model StaticPose for autocal camera 4
+20200829_10:43:31.854	Info	Using cal plate pitch 2 for autocal camera 5
+20200829_10:43:31.854	Info	Using distortion model OneParamRadial for autocal camera 5
+20200829_10:43:31.854	Info	Using motion model StaticPose for autocal camera 5
+20200829_10:43:31.854	Info	Using cal plate pitch 2 for autocal camera 6
+20200829_10:43:31.854	Info	Using distortion model OneParamRadial for autocal camera 6
+20200829_10:43:31.854	Info	Using motion model StaticPose for autocal camera 6
+20200829_10:43:31.882	Alarm	像机1的IP地址不是192.168.21.101
+20200829_10:43:31.882	Info		Cannot setup AcqFifo for jobID 1 no supported cam found at IP address 192.168.21.101
+20200829_10:43:31.882	Alarm	像机2的IP地址不是192.168.22.101
+20200829_10:43:31.882	Info		Cannot setup AcqFifo for jobID 2 no supported cam found at IP address 192.168.22.101
+20200829_10:43:31.882	Alarm	像机3的IP地址不是192.168.23.101
+20200829_10:43:31.882	Info		Cannot setup AcqFifo for jobID 3 no supported cam found at IP address 192.168.23.101
+20200829_10:43:31.882	Alarm	像机4的IP地址不是192.168.24.101
+20200829_10:43:31.882	Info		Cannot setup AcqFifo for jobID 4 no supported cam found at IP address 192.168.24.101
+20200829_10:43:31.882	Alarm	像机5的IP地址不是192.168.25.101
+20200829_10:43:31.882	Info		Cannot setup AcqFifo for jobID 5 no supported cam found at IP address 192.168.25.101
+20200829_10:43:31.885	Info	No file found for Calibration_1 so nothing was loaded.
+20200829_10:43:31.888	Info	No file found for Calibration_2 so nothing was loaded.
+20200829_10:43:31.891	Info	No file found for Calibration_3 so nothing was loaded.
+20200829_10:43:31.894	Info	No file found for Calibration_4 so nothing was loaded.
+20200829_10:43:31.897	Info	No file found for Calibration_5 so nothing was loaded.
+20200829_10:43:31.901	Info	No file found for Calibration_6 so nothing was loaded.
+20200829_10:43:31.902	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:43:31.902	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:43:31.902	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:43:31.902	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:43:31.902	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:43:31.902	Info	Skipping autocal train data unload operation because development mode is active...
+20200829_10:43:34.578	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_2.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:43:34.586	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_1.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.
+20200829_10:43:34.590	Info	Cannot load toolblock C:\Users\srwang\Documents\GitHub\ChangeRecord\ChangeRecord&backup20200828\Cognex\Inspections\Inspection_3.vpp because an error occured. Details: Cross-thread operation not valid: Control 'm_ctrlToolStatus' accessed from a thread other than the thread it was created on.

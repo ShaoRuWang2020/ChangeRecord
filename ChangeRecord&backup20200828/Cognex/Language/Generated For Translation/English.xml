@@ -1,0 +1,911 @@
+<?xml version="1.0"?>
+<WritableStringDictionary>
+  <TranslationStrings>
+    <Key>Cognex AssemblyPlus</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>AssemblyPlus Settings...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Any Color</Key>
+    <String>Any Color</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>MainForm Load Error</Key>
+    <String>MainForm Load Error</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Light controller {0} of type, {1}, could not be loaded. Falling back to type Cog_{1}</Key>
+    <String>Light controller {0} of type, {1}, could not be loaded. Falling back to type Cog_{1}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Username:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Administrator:</Key>
+    <String>Administrator:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Saved inspection tool: </Key>
+    <String>Saved inspection tool: </String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Unloading inspection tools, please wait...</Key>
+    <String>Unloading inspection tools, please wait...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Loading inspection tools, please wait...</Key>
+    <String>Loading inspection tools, please wait...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Changed GevSCPD from {0} to {1}.</Key>
+    <String>Changed GevSCPD from {0} to {1}.</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>S4 Status:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>S3 Status:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration 1</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration Settings...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration 2</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration 3</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration 4</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration 5</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration 6</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>T1 Locate Phone</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>T21 Detect FB Label</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>T22 Detect FG Label</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>T3 Train</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>T4 Train</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>T3 Locate FB Label</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>T4 Locate FG Label</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>T5 Final check</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>CheckBoardCalibration</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>ReLoad All Inspections...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Run Image Cleanup Now</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Auto Regression Testing</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Image File Name Settings...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>User Permission Managermant</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Operator:</Key>
+    <String>Operator:</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>{2:D8} To {0} (link down): {1}</Key>
+    <String>{2:D8} To {0} (link down): {1}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>{1:D8} Command processing time: {0} ms</Key>
+    <String>{1:D8} Command processing time: {0} ms</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>{2:D8} To {0}: {1}</Key>
+    <String>{2:D8} To {0}: {1}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Inspection tool failed. Check inspection tool.</Key>
+    <String>Inspection tool failed. Check inspection tool.</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration data saved to disk: </Key>
+    <String>Calibration data saved to disk: </String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>T1,1 Recheck_Pad1</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>T1,2 Recheck_Pad2</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Cal1,1 Calibration</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>{1:D8} {0:0.0} ms -{2}</Key>
+    <String>{1:D8} {0:0.0} ms -{2}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Disconnected</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Enable Hardware Trigger</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Enable Image Generator Tools</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key> (Input 1)</Key>
+    <String> (Input 1)</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration {0} Input {1}</Key>
+    <String>Calibration {0} Input {1}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Serves Inspection:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>是的</Key>
+    <String>是的</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>拍照工具失败， 无输入图像。检查标定工具。</Key>
+    <String>拍照工具失败， 无输入图像。检查标定工具。</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Save Reject/Warning/Error to Alternate Path</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Annotated Alternate Path (no cleanup)</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Raw Alternate Path (no cleanup)</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Cleanup Interval:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Embed Metadata To Raw Images</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Minutes</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera Setup Tools</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Records:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Edit Tool </Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera {0} acquisition error</Key>
+    <String>Camera {0} acquisition error</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Description</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Manual Lighting Control</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Bandwidth:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Use Manual Image Grading:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Inspection tool requested while tools were unloaded. Reloading inspection tools...</Key>
+    <String>Inspection tool requested while tools were unloaded. Reloading inspection tools...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Command {0} run inspection {1} failed duo to an exception {2}</Key>
+    <String>Command {0} run inspection {1} failed duo to an exception {2}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>No Record Generated!</Key>
+    <String>No Record Generated!</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration tool failed. Check calibration tool.</Key>
+    <String>Calibration tool failed. Check calibration tool.</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera {0} not responding!</Key>
+    <String>Camera {0} not responding!</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>An unknown exception occured during acquisition!</Key>
+    <String>An unknown exception occured during acquisition!</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Light controller {0} failed to set multiple intensities!</Key>
+    <String>Light controller {0} failed to set multiple intensities!</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Light controller {0} channel {1} failed to set a light intensity!</Key>
+    <String>Light controller {0} channel {1} failed to set a light intensity!</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Light controller {0} channel {1} failed to turn on!</Key>
+    <String>Light controller {0} channel {1} failed to turn on!</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Saved light controller communication settings!</Key>
+    <String>Saved light controller communication settings!</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Light Controller {0} could not be initilaized!</Key>
+    <String>Light Controller {0} could not be initilaized!</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Could not initialize light controller {0} because its type, {1}, could not be loaded!</Key>
+    <String>Could not initialize light controller {0} because its type, {1}, could not be loaded!</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>To {0} (link down): {1}</Key>
+    <String>To {0} (link down): {1}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Command processing time: {0} ms</Key>
+    <String>Command processing time: {0} ms</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>To {0}: {1}</Key>
+    <String>To {0}: {1}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>{0:0.0} ms - {1}</Key>
+    <String>{0:0.0} ms - {1}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>T1,1 Inspection1</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>T1,2 Inspection2</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Image File Name Settings</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Default</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Could not create Acqfifo for job {0}! Details: {1}</Key>
+    <String>Could not create Acqfifo for job {0}! Details: {1}</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>T1,1 PAMi-5 Inspection1</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>T1,0 PAMi-5 Inspection2</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>T1,100 Focus_Position</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>T1,2  Inspection2</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Light controller {0} multiple channels failed to turn off.</Key>
+    <String>Light controller {0} multiple channels failed to turn off.</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Error checking disk space.</Key>
+    <String>Error checking disk space.</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Are you about to reduce the memory size of inspection toolblocks. This operation could potentially corrupt your inspections or leave them inoperable. Please create a backup before continuing. Are you sure you want to continue?</Key>
+    <String>Are you about to reduce the memory size of inspection toolblocks. This operation could potentially corrupt your inspections or leave them inoperable. Please create a backup before continuing. Are you sure you want to continue?</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Reducing inspection toolblock sizes...</Key>
+    <String>Reducing inspection toolblock sizes...</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Error saving image!</Key>
+    <String>Error saving image!</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Display {0}     </Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Cognex Vision System</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>System Message Log</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Message</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Time</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Application starting, please wait...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Cancel</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Product 1</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera {0} ({1})</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera {0} is not at IP Address {1}</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Stable</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Experimental</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Scanning for plugins...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Searching assembly {0} for plugin types...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Loaded lighting controller type {0}, v{1}.{2}.{3}.{4}</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Plugin loading complete!</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Light Controller Setup</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Remove</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Add</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>OK</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>System came online.</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Status</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>System Status</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>PLC Status:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Tool Status:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Product ID:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>S2 Status:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>S1 Status:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Run Status:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Select Product:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Simulator</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Image Source:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>File</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Folder</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Live Camera</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Issue Commands:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Next Image:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Next Cmd:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Auto</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Automatic</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Manual</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Choose Folder:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Browse...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Preset</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Autocal</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Robot X:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Robot Y:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Robot T:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>mm</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>deg</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Custom</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>S2 Send</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>S1 Send</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Batch</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Loop Simulation File</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Run Simulation File...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Force Write Every</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Line(s)</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Measurement File:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Flush And Close Measurement File</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Log</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Dismiss Alarms</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Clear Log</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Run</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Offline</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Online</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera Settings...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Acquisition Setup...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Edit ToolBlock...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Autocalibration Settings...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Inspection</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Inspection 1</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Inspection Settings...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Inspection 2</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Tools</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera Setup Tool...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration Info...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Change Calibration Tools...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Edit Autocal Template Tool...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Reset Autocal Calibration Scripts...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Force All Tools to Release Mode...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Reduce Inspection Tool Size...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Generate Cycle Time Report...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Convert VPBs to Bitmaps...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Version Information...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Settings</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Language （语言）</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Image Save Settings...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Light Controller Setup...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Light Controller Intensity...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Server Communication...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Vision System Setup...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Framework Settings...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Operator</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>ALARM: {0}</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Disabled</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Close the application?</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Close Application</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Change Access Level</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Change</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>New Password:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Password:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Change Password...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Administrator</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Engineer</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>{0} ms</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Acquisition tool failed, no input image provided. Check acquisition tool.</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Input {2} - Camera {0} ({1})</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Inspection:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Acquisition Setup</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Live Video</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Reference Image</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Snap Reference Image</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Acquisition Settings</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Product:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Exposure:</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Lighting...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>ms</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Save Settings</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>1</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Camera {0}</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Calibration {0}</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Inspection {0}</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Reinitializing Framework...</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Inspection {0} was not loaded! Would you like to create a new inspection tool?</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Create New Inspection Tool</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Compare Stable</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Save</Key>
+    <String>---</String>
+  </TranslationStrings>
+  <TranslationStrings>
+    <Key>Save and Close</Key>
+    <String>---</String>
+  </TranslationStrings>
+</WritableStringDictionary>
